@@ -1,6 +1,6 @@
 body {
   background: rgb(33,212,253);
-  background: linear-gradient(130deg, rgba(33,212,253,1) 0%, rgba(183,33,255,1) 89%);
+  background: linear-gradient(90deg, rgba(33,212,253,1) 0%, rgba(183,33,255,1) 89%);
   font-family: 'Bebas Neue', cursive;
   position: relative;
   z-index: 1;
@@ -8,7 +8,7 @@ body {
 
 body::before {
   background: rgb(33,212,253);
-  background: linear-gradient(320deg, rgba(33,212,253,1) 0%, rgba(183,33,255,1) 89%);
+  background: linear-gradient(270deg, rgba(33,212,253,1) 0%, rgba(183,33,255,1) 89%);
   position: absolute;
   content: "";
   z-index: -1;
@@ -48,6 +48,7 @@ body::before {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 0 20px 10px 0.7 black;
   background-image: url(pict-1.svg);
   background-size: 63%;
   background-repeat: no-repeat;
