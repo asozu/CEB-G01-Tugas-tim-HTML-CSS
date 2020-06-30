@@ -62,7 +62,7 @@
   grid-gap: 15px;
 }
 .flip-card-back h1{
-  color:black;
+  color:white;
   border-bottom: 1px solid #808080;
 }
 .flip-card-back ul{
@@ -70,6 +70,6 @@
 }
 
 .flip-card-back li{
-  color:black;
+  color:white;
   text-align: left;
 }
