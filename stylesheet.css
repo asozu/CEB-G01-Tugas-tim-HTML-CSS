@@ -1,3 +1,59 @@
+body {
+  background: rgb(33,212,253);
+  background: linear-gradient(130deg, rgba(33,212,253,1) 0%, rgba(183,33,255,1) 89%);
+  font-family: 'Bebas Neue', cursive;
+  position: relative;
+  z-index: 1;
+}
+
+body::before {
+  background: rgb(33,212,253);
+  background: linear-gradient(320deg, rgba(33,212,253,1) 0%, rgba(183,33,255,1) 89%);
+  position: absolute;
+  content: "";
+  z-index: -1;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0;
+  transition: 1s ease;
+  animation: background 5s infinite;
+}
+
+@keyframes background {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.content {
+  padding: 0 5%;
+}
+
+.content .judul {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 60px;
+}
+.content-image {
+  width: 80%;
+  height: 300px;
+  padding: 50px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(pict-1.svg);
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .container h1{
     margin-top:-100px;
   text-align: center;
