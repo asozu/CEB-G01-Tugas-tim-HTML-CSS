@@ -1,8 +1,22 @@
 @media (max-width: 1000px) {
-
+	.content-image {
+	  width: 80%;
+	  height: 250px;
+	  padding: 40px;
+	  margin-top: 50px;
+	  margin-left: auto;
+	  margin-right: auto;
+	  background-size: 75%;
 
 }
 @media (max-width: 670px) {
-
-
+	.content-image {
+	  width: 80%;
+	  height: 150px;
+	  padding: 40px;
+	  margin-top: 50px;
+	  margin-left: auto;
+	  margin-right: auto;
+	  background-size: 90%;
+}
 }
