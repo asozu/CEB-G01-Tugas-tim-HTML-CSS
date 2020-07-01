@@ -14,7 +14,7 @@ body::before {
   z-index: -1;
   top: -50px;
   right: -7px;
-  bottom: -7px;
+  bottom: 0px;
   left: -7px;
   opacity: 0;
   transition: 1s ease;
@@ -52,6 +52,14 @@ body::before {
   background-size: 63%;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.konten-tambahan {
+  width:600px;
+  margin: 0 auto;
+  font-family: arial;
+  color: black;
+  text-align: center;
 }
 /*densita narendra's (jangan dihapus , biar kalau aku mau ganti gampang)*/
 .profile {
