@@ -19,4 +19,7 @@
 	  margin-right: auto;
 	  background-size: 90%;
 }
+	.flip-card:active .flip-card-inner {
+    transform: rotateY(180deg);
+  }
 }
