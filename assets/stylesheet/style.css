@@ -48,8 +48,7 @@ body::before {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 0 20px 10px 0.7 black;
-  background-image: url(pict-1.svg);
+  background-image: url('../images/pict-1.svg');
   background-size: 63%;
   background-repeat: no-repeat;
   background-position: center;
