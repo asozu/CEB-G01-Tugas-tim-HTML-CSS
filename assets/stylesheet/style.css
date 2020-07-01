@@ -125,7 +125,7 @@ body::before {
   }
 }
 .content {
-  padding: 0 5%;
+  padding: 0 10%;
 }
 
 .content .judul {
@@ -159,7 +159,7 @@ body::before {
   width:100%;
   text-align: center;
   color: white;
-  margin-bottom: 200px;
+  margin-bottom: 10px;
 }
 
 .name {
@@ -250,6 +250,28 @@ body::before {
 }
 /*end densita narendra*/
 
+.project {
+  display: flex;
+  flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.satu h2, p {
+  text-align: left;
+}
+.dua h2, p {
+  text-align: left;
+}
+.artikel-foto img {
+  width: 100%;
+}
+.artikel {
+  flex: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+
 footer {
   height: 150px;
   width: 100%;
@@ -264,13 +286,14 @@ footer {
 
 .footer h1 {
   font-size: 38px;
-  text-shadow: 4px 3px 0 #7A7A7A;
+  text-shadow: 4px 3px 0 #424242;
 
 }
 
 .left {
   text-align: right;
     line-height: 0.2;
+    background-color: #616161;
 }
 .mid, .right {
   float: right;
