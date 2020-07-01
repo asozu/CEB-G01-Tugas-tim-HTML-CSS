@@ -1,7 +1,7 @@
 header {
   height: 65px;
   width: 100%;
-  background-color:#006faa ;
+  background-color:#283593 ;
   z-index:1000;
   float: left;
   position: fixed;
@@ -37,7 +37,7 @@ header {
 .jw-drawer {
   position:fixed;
   left:-280px;
-  background-color:#006faa;
+  background-color:#283593;
   height:100%;
   z-index:100;
   width:230px;
@@ -52,7 +52,7 @@ header {
 .jw-drawer ul li a {
   padding:10px 20px;
   text-decoration:none;
-  display:block;
+  display: block;
   color:#FFF;
   border-top:1px solid #059;
 }
@@ -78,6 +78,17 @@ header {
  to {left: -280px;}
 }
 
+.head-logo {
+  color: white;
+  font-size: 14px;
+  padding: 5px;
+  position: absolute;
+  top: -15px;
+  right: 2%;
+  line-height: 0;
+  text-align: right;
+}
+
 body {
   background: rgb(33,212,253);
   background: linear-gradient(90deg, rgba(33,212,253,1) 0%, rgba(183,33,255,1) 89%);
@@ -100,6 +111,7 @@ body::before {
   transition: 1s ease;
   animation: background 5s infinite;
 }
+
 
 @keyframes background {
   0% {
@@ -147,6 +159,7 @@ body::before {
   width:100%;
   text-align: center;
   color: white;
+  margin-bottom: 200px;
 }
 
 .name {
@@ -236,3 +249,39 @@ body::before {
   color:yellow;
 }
 /*end densita narendra*/
+
+footer {
+  height: 150px;
+  width: 100%;
+  background-color: lightgrey ;
+}
+
+.footer {
+  padding: 20px;
+  float: left;
+  margin-right: 10px;
+}
+
+.footer h1 {
+  font-size: 38px;
+  text-shadow: 4px 3px 0 #7A7A7A;
+
+}
+
+.left {
+  text-align: right;
+    line-height: 0.2;
+}
+.mid, .right {
+  float: right;
+  text-align: left;
+  cursor: pointer;
+}
+
+.footer ul {
+  list-style: none;
+}
+.footer li {
+  font-size: 20px;
+  line-height: 1.5;
+}
