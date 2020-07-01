@@ -146,13 +146,6 @@ body::before {
   background-position: center;
 }
 
-.konten-tambahan {
-  width:600px;
-  margin: 0 auto;
-  font-family: arial;
-  color: black;
-  text-align: center;
-}
 /*densita narendra's (jangan dihapus , biar kalau aku mau ganti gampang)*/
 .profile {
   height:400px;
@@ -253,7 +246,9 @@ body::before {
 .project {
   display: flex;
   flex-direction: row;
-    margin-bottom: 20px;
+  margin-bottom: 20px;
+  font-family: arial;
+  font-weight: 700;
 }
 
 .satu h2, p {
@@ -270,7 +265,6 @@ body::before {
   width: 50%;
   padding: 10px;
 }
-
 
 footer {
   height: 150px;
@@ -307,4 +301,93 @@ footer {
 .footer li {
   font-size: 20px;
   line-height: 1.5;
+}
+
+/*-----responsive-------*/
+
+/*untuk layar tablet*/
+
+@media (max-width: 1000px) {
+  .grid {
+    width:100%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+
+  .profile {
+    margin-bottom: 300px;
+  }
+   .content-image {
+    width: 80%;
+    height: 200px;
+    padding: 50px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 70%;
+  }
+  .project {
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+
+  .artikel {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .artikel-foto img {
+    width: 100% !important;
+  }
+}
+
+/*untuk layar mobile*/
+
+@media (max-width: 670px) {
+    .grid {
+    width:100%;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+
+  .profile {
+    margin-bottom: 600px;
+  }
+   .content-image {
+    width: 80%;
+    height: 200px;
+    padding: 50px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 80%;
+  }
+  .project {
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+
+  .artikel {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .artikel-foto img {
+    width: 100% !important;
+  }
+
+  .footer {
+    padding: 10px;
+    margin-right: 10px;
+  }
+
+  .footer h1 {
+    font-size: 30px;
+  }
+
+  .footer li {
+    font-size: 18px;
+    line-height: 1.3;
+  }
+
 }
