@@ -336,7 +336,6 @@ footer {
 .footer {
   padding: 20px;
   float: left;
-  margin-right: 10px;
 }
 
 .footer h1 {
@@ -423,6 +422,7 @@ footer {
     margin-right: auto;
     background-size: 100%;
   }
+
   /*.project {
     flex-direction: column;
     margin-bottom: 20px;
