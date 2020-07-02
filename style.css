@@ -263,6 +263,7 @@ border-style: groove;
 border-radius:10px;
 border-color: #5F6D7E;
 background-image: url(paperscroll.jpg);
+background-size:cover;
 color:black;
 width:100%;
 margin-bottom:40px;
@@ -277,12 +278,11 @@ color:black;
 margin-bottom:20px;
 font-family:DejaVu Sans Mono, monospace;
 color:black;
-  
 background-color: yellow;
 }
 .groove h2{
 margin-bottom:20px;
-font-size:15px;
+font-size:16px;
 font-family:Stencil Std, fantasy;
 color:black;
 }
@@ -294,7 +294,8 @@ color:black;
 }
 .groove img{
 float:right;
-width:16%;
+max-width:16%;
+max-height:200px;
 padding-top:10px;
 padding-bottom:20%;
 margin-right:10px;
