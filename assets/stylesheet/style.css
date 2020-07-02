@@ -244,6 +244,61 @@ body::before {
 .answer{
   color:yellow;
 }
+.main-tambahan{
+  width:100%;
+
+  border-top: 3px solid #9E9E9E;
+}
+.main-tambahan h1{
+margin-bottom:20px;
+font-family:Luminari, fantasy;
+color:black;
+text-align: center;
+}
+
+.groove {
+border-style: groove;
+border-radius:10px;
+border-color: #5F6D7E;
+background-image: url(paperscroll.jpg);
+background-size:cover;
+color:black;
+width:100%;
+margin-bottom:40px;
+z-index:1;
+}
+.groove h1{
+margin-bottom:20px;
+font-family:Chalkduster, fantasy;
+color:black;
+text-align: left;
+}
+.groove h4{
+margin-bottom:20px;
+font-family:DejaVu Sans Mono, monospace;
+color:black;
+background-color: yellow;
+}
+.groove h2{
+margin-bottom:20px;
+font-size:16px;
+font-family:Stencil Std, fantasy;
+color:black;
+}
+
+.groove h3{
+margin-bottom:20px;
+font-family:cursive;
+color:black;
+}
+.groove img{
+float:right;
+max-width:16%;
+max-height:200px;
+padding-top:10px;
+padding-bottom:20%;
+margin-right:0px;
+}
 /*end densita narendra*/
 
 /*                 INI CSS ARTIKEL LAMA*/
