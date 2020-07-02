@@ -241,6 +241,57 @@ body::before {
 .answer{
   color:yellow;
 }
+/*main tambahan*/
+.main-tambahan{
+  width:100%;
+
+  border-top: 3px solid #9E9E9E;
+}
+.main-tambahan h1{
+margin-bottom:20px;
+font-family:Luminari, fantasy;
+color:black;
+}
+
+.groove {
+border-style: groove;
+border-radius:10px;
+border-color: #5F6D7E;
+background-image: url(scroll-image.png);
+color:black;
+width:100%;
+margin-bottom:40px;
+z-index:1;
+}
+.groove h1{
+margin-bottom:20px;
+font-family:Chalkduster, fantasy;
+color:black;
+}
+.groove h4{
+margin-bottom:20px;
+font-family:DejaVu Sans Mono, monospace;
+color:black;
+}
+.groove h2{
+margin-bottom:20px;
+font-size:15px;
+font-family:Stencil Std, fantasy;
+color:black;
+}
+
+.groove h3{
+margin-bottom:20px;
+font-family:cursive;
+color:black;
+}
+.groove img{
+float:right;
+width:190px;
+padding-top:10px;
+padding-bottom:20%;
+margin-right:10px;
+}
 /*end densita narendra*/
 
 .project {
