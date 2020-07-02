@@ -277,6 +277,8 @@ color:black;
 margin-bottom:20px;
 font-family:DejaVu Sans Mono, monospace;
 color:black;
+  
+background-color: yellow;
 }
 .groove h2{
 margin-bottom:20px;
@@ -292,7 +294,7 @@ color:black;
 }
 .groove img{
 float:right;
-width:190px;
+width:16%;
 padding-top:10px;
 padding-bottom:20%;
 margin-right:10px;
