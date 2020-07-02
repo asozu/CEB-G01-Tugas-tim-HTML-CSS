@@ -256,6 +256,7 @@ body::before {
 margin-bottom:20px;
 font-family:Luminari, fantasy;
 color:black;
+text-align: center;
 }
 
 .groove {
@@ -273,6 +274,7 @@ z-index:1;
 margin-bottom:20px;
 font-family:Chalkduster, fantasy;
 color:black;
+text-align: left;
 }
 .groove h4{
 margin-bottom:20px;
