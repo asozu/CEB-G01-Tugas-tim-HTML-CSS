@@ -243,7 +243,8 @@ body::before {
 }
 /*end densita narendra*/
 
-.project {
+/*                 INI CSS ARTIKEL LAMA*/
+/*.project {
   display: flex;
   flex-direction: row;
   margin-bottom: 20px;
@@ -264,7 +265,7 @@ body::before {
   flex: auto;
   width: 50%;
   padding: 10px;
-}
+}*/
 
 footer {
   height: 150px;
@@ -326,7 +327,7 @@ footer {
     margin-right: auto;
     background-size: 70%;
   }
-  .project {
+  /*.project {
     flex-direction: column;
     margin-bottom: 20px;
   }
@@ -339,7 +340,7 @@ footer {
   .artikel-foto img {
     width: 100% !important;
   }
-}
+}*/
 
 /*untuk layar mobile*/
 
@@ -362,7 +363,7 @@ footer {
     margin-right: auto;
     background-size: 80%;
   }
-  .project {
+  /*.project {
     flex-direction: column;
     margin-bottom: 20px;
   }
@@ -388,6 +389,6 @@ footer {
   .footer li {
     font-size: 18px;
     line-height: 1.3;
-  }
+  */}
 
 }
