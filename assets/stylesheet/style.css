@@ -129,6 +129,8 @@ body::before {
 }
 
 .content .judul {
+  color: #FDB826;
+  text-shadow: #d32f2f 2px 2px 0px, #d32f2f 6px 6px 0px;
   text-align: center;
   margin-bottom: 0px;
   font-size: 60px;
@@ -320,13 +322,13 @@ footer {
     margin-bottom: 300px;
   }
    .content-image {
-    width: 80%;
-    height: 200px;
-    padding: 50px;
-    margin-top: 80px;
+    width: 90%;
+    height: 250px;
+    padding-top: 150px;
+    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
-    background-size: 70%;
+    background-size: 85%;
   }
   /*.project {
     flex-direction: column;
@@ -358,11 +360,11 @@ footer {
    .content-image {
     width: 80%;
     height: 200px;
-    padding: 50px;
+    padding-top: 100px;
     margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
-    background-size: 80%;
+    background-size: 100%;
   }
   /*.project {
     flex-direction: column;
