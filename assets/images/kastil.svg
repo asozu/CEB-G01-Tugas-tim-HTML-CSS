@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2560px" height="2560px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2560 2560"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:svg="http://www.w3.org/2000/svg"
+ xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+ xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+ inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+ sodipodi:docname="ppl2.svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil24 {fill:none}
+    .fil17 {fill:none;fill-rule:nonzero}
+    .fil40 {fill:black;fill-rule:nonzero}
+    .fil30 {fill:#00574E;fill-rule:nonzero}
+    .fil6 {fill:#006C61;fill-rule:nonzero}
+    .fil5 {fill:#00907F;fill-rule:nonzero}
+    .fil43 {fill:#184C70;fill-rule:nonzero}
+    .fil37 {fill:#1F72AD;fill-rule:nonzero}
+    .fil49 {fill:#212A31;fill-rule:nonzero}
+    .fil39 {fill:#231F20;fill-rule:nonzero}
+    .fil36 {fill:#278ED7;fill-rule:nonzero}
+    .fil14 {fill:#3A4D57;fill-rule:nonzero}
+    .fil21 {fill:#3B4D57;fill-rule:nonzero}
+    .fil8 {fill:#404041;fill-rule:nonzero}
+    .fil27 {fill:#411113;fill-rule:nonzero}
+    .fil7 {fill:#595A5A;fill-rule:nonzero}
+    .fil20 {fill:#5D6670;fill-rule:nonzero}
+    .fil0 {fill:#627079;fill-rule:nonzero}
+    .fil44 {fill:#63473A;fill-rule:nonzero}
+    .fil41 {fill:#67200E;fill-rule:nonzero}
+    .fil38 {fill:#7E1416;fill-rule:nonzero}
+    .fil12 {fill:gray;fill-rule:nonzero}
+    .fil50 {fill:#874636;fill-rule:nonzero}
+    .fil42 {fill:#924821;fill-rule:nonzero}
+    .fil33 {fill:#966B4E;fill-rule:nonzero}
+    .fil57 {fill:#9A4B23;fill-rule:nonzero}
+    .fil25 {fill:#9A6E5A;fill-rule:nonzero}
+    .fil35 {fill:#A26F3A;fill-rule:nonzero}
+    .fil46 {fill:#A5B3BC;fill-rule:nonzero}
+    .fil54 {fill:#AA4638;fill-rule:nonzero}
+    .fil29 {fill:#AD511F;fill-rule:nonzero}
+    .fil15 {fill:#AE682C;fill-rule:nonzero}
+    .fil26 {fill:#B05C3A;fill-rule:nonzero}
+    .fil51 {fill:#B36033;fill-rule:nonzero}
+    .fil32 {fill:#BD8864;fill-rule:nonzero}
+    .fil45 {fill:#BDC8D1;fill-rule:nonzero}
+    .fil23 {fill:#C23323;fill-rule:nonzero}
+    .fil34 {fill:#C3996B;fill-rule:nonzero}
+    .fil55 {fill:#C86452;fill-rule:nonzero}
+    .fil48 {fill:#CAD6DD;fill-rule:nonzero}
+    .fil22 {fill:#CECECD;fill-rule:nonzero}
+    .fil1 {fill:#D32F2F;fill-rule:nonzero}
+    .fil10 {fill:#D5D8D8;fill-rule:nonzero}
+    .fil16 {fill:#D6B07D;fill-rule:nonzero}
+    .fil9 {fill:#D76527;fill-rule:nonzero}
+    .fil47 {fill:#D8E2E6;fill-rule:nonzero}
+    .fil4 {fill:#DBDBDA;fill-rule:nonzero}
+    .fil31 {fill:#E09D39;fill-rule:nonzero}
+    .fil11 {fill:#E1B890;fill-rule:nonzero}
+    .fil56 {fill:#E1E9EF;fill-rule:nonzero}
+    .fil59 {fill:#E28336;fill-rule:nonzero}
+    .fil13 {fill:#E2E5E5;fill-rule:nonzero}
+    .fil2 {fill:#E8B785;fill-rule:nonzero}
+    .fil19 {fill:#EAA560;fill-rule:nonzero}
+    .fil18 {fill:#F6E9D7;fill-rule:nonzero}
+    .fil58 {fill:#F99E4D;fill-rule:nonzero}
+    .fil28 {fill:#FAAF40;fill-rule:nonzero}
+    .fil3 {fill:#FCD7AD;fill-rule:nonzero}
+    .fil52 {fill:#FDB826;fill-rule:nonzero}
+    .fil60 {fill:#FFC84D;fill-rule:nonzero}
+    .fil53 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+    <clipPath id="id0" style="clip-rule:nonzero">
+     <path d="M1550 599l3 0 0 14 -3 0 0 -14z"/>
+    </clipPath>
+    <clipPath id="id1" style="clip-rule:nonzero">
+     <path d="M1522 565l35 0 0 79 -35 0 0 -79z"/>
+    </clipPath>
+    <clipPath id="id2" style="clip-rule:nonzero">
+     <path d="M1556 566l15 0 0 18 -15 0 0 -18z"/>
+    </clipPath>
+    <clipPath id="id3" style="clip-rule:nonzero">
+     <path d="M1512 587l3 0 0 7 -3 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id4" style="clip-rule:nonzero">
+     <path d="M1576 587l3 0 0 7 -3 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id5" style="clip-rule:nonzero">
+     <path d="M1476 496l104 0 0 21 -104 0 0 -21z"/>
+    </clipPath>
+    <clipPath id="id6" style="clip-rule:nonzero">
+     <path d="M1541 489l30 0 0 4 -30 0 0 -4z"/>
+    </clipPath>
+    <clipPath id="id7" style="clip-rule:nonzero">
+     <path d="M1519 486l49 0 0 12 -49 0 0 -12z"/>
+    </clipPath>
+    <clipPath id="id8" style="clip-rule:nonzero">
+     <path d="M1541 477l23 0 0 4 -23 0 0 -4z"/>
+    </clipPath>
+    <clipPath id="id9" style="clip-rule:nonzero">
+     <path d="M1471 544l38 0 0 8 -38 0 0 -8z"/>
+    </clipPath>
+    <clipPath id="id10" style="clip-rule:nonzero">
+     <path d="M1490 524l44 0 0 7 -44 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id11" style="clip-rule:nonzero">
+     <path d="M1492 512l55 0 0 15 -55 0 0 -15z"/>
+    </clipPath>
+    <clipPath id="id12" style="clip-rule:nonzero">
+     <path d="M1529 506l23 0 0 6 -23 0 0 -6z"/>
+    </clipPath>
+    <clipPath id="id13" style="clip-rule:nonzero">
+     <path d="M1532 501l46 0 0 9 -46 0 0 -9z"/>
+    </clipPath>
+    <clipPath id="id14" style="clip-rule:nonzero">
+     <path d="M1595 503l6 0 0 5 -6 0 0 -5z"/>
+    </clipPath>
+    <clipPath id="id15" style="clip-rule:nonzero">
+     <path d="M1590 515l11 0 0 11 -11 0 0 -11z"/>
+    </clipPath>
+    <clipPath id="id16" style="clip-rule:nonzero">
+     <path d="M1589 520l9 0 0 8 -9 0 0 -8z"/>
+    </clipPath>
+    <clipPath id="id17">
+     <path d="M1752 925c0,0 -23,28 -21,65l0 0c2,37 27,55 27,55l0 0c0,0 2,-3 4,-6l0 0c1,-3 1,-7 1,-7l0 0c0,0 -15,-11 -15,-38l0 0c-1,-25 8,-32 8,-32l0 0 7 66c0,0 9,16 54,15l0 0c42,-1 49,-18 49,-18l0 0 4 -68c21,35 -5,71 -5,71l0 0 8 8c0,0 18,-15 20,-48l0 0c3,-45 -18,-66 -21,-69l0 0 1 -10c-23,25 -54,31 -54,31l0 0c-45,-6 -69,-33 -69,-33l0 0 2 18z"/>
+    </clipPath>
+    <clipPath id="id18">
+     <path d="M1870 919l2 0 0 38 -2 0 0 -38z"/>
+    </clipPath>
+      <clipPath id="id19" style="clip-rule:nonzero">
+       <path d="M1872 919l-2 38c0,0 0,0 0,0l2 -38c0,0 0,0 0,0l0 0z"/>
+      </clipPath>
+      <clipPath id="id20" style="clip-rule:nonzero">
+       <path d="M1870 919l2 0 0 38 -2 0 0 -38z"/>
+      </clipPath>
+    <clipPath id="id21">
+     <path d="M1870 919l2 0 0 38 -2 0 0 -38z"/>
+    </clipPath>
+      <clipPath id="id22" style="clip-rule:nonzero">
+       <path d="M1872 919l-2 38c0,0 0,0 0,0l2 -38c0,0 0,0 0,0l0 0z"/>
+      </clipPath>
+      <clipPath id="id23" style="clip-rule:nonzero">
+       <path d="M1870 919l2 0 0 38 -2 0 0 -38z"/>
+      </clipPath>
+    <clipPath id="id24" style="clip-rule:nonzero">
+     <path d="M1823 865l4 0 0 14 -4 0 0 -14z"/>
+    </clipPath>
+    <clipPath id="id25" style="clip-rule:nonzero">
+     <path d="M1796 832l12 0 0 20 -12 0 0 -20z"/>
+    </clipPath>
+    <clipPath id="id26" style="clip-rule:nonzero">
+     <path d="M1830 832l15 0 0 18 -15 0 0 -18z"/>
+    </clipPath>
+    <clipPath id="id27" style="clip-rule:nonzero">
+     <path d="M1785 853l3 0 0 7 -3 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id28" style="clip-rule:nonzero">
+     <path d="M1850 853l2 0 0 7 -2 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id29" style="clip-rule:nonzero">
+     <path d="M1752 763l101 0 0 26 -101 0 0 -26z"/>
+    </clipPath>
+    <clipPath id="id30" style="clip-rule:nonzero">
+     <path d="M1817 761l28 0 0 12 -28 0 0 -12z"/>
+    </clipPath>
+    <clipPath id="id31" style="clip-rule:nonzero">
+     <path d="M1794 758l49 0 0 10 -49 0 0 -10z"/>
+    </clipPath>
+    <clipPath id="id32" style="clip-rule:nonzero">
+     <path d="M1822 753l21 0 0 9 -21 0 0 -9z"/>
+    </clipPath>
+    <clipPath id="id33" style="clip-rule:nonzero">
+     <path d="M1741 771l31 0 0 24 -31 0 0 -24z"/>
+    </clipPath>
+    <clipPath id="id34" style="clip-rule:nonzero">
+     <path d="M1766 772l37 0 0 26 -37 0 0 -26z"/>
+    </clipPath>
+    <clipPath id="id35" style="clip-rule:nonzero">
+     <path d="M1771 771l50 0 0 28 -50 0 0 -28z"/>
+    </clipPath>
+    <clipPath id="id36" style="clip-rule:nonzero">
+     <path d="M1808 786l21 0 0 12 -21 0 0 -12z"/>
+    </clipPath>
+    <clipPath id="id37" style="clip-rule:nonzero">
+     <path d="M1810 769l40 0 0 22 -40 0 0 -22z"/>
+    </clipPath>
+    <clipPath id="id38" style="clip-rule:nonzero">
+     <path d="M1862 770l15 0 0 11 -15 0 0 -11z"/>
+    </clipPath>
+    <clipPath id="id39" style="clip-rule:nonzero">
+     <path d="M1864 773l6 0 0 4 -6 0 0 -4z"/>
+    </clipPath>
+    <clipPath id="id40" style="clip-rule:nonzero">
+     <path d="M1858 775l17 0 0 13 -17 0 0 -13z"/>
+    </clipPath>
+    <clipPath id="id41" style="clip-rule:nonzero">
+     <path d="M1860 780l12 0 0 9 -12 0 0 -9z"/>
+    </clipPath>
+    <clipPath id="id42" style="clip-rule:nonzero">
+     <path d="M1860 789l10 0 0 7 -10 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id43" style="clip-rule:nonzero">
+     <path d="M1343 628l3 0 0 13 -3 0 0 -13z"/>
+    </clipPath>
+    <clipPath id="id44" style="clip-rule:nonzero">
+     <path d="M1315 594l35 0 0 79 -35 0 0 -79z"/>
+    </clipPath>
+    <clipPath id="id45" style="clip-rule:nonzero">
+     <path d="M1349 594l15 0 0 19 -15 0 0 -19z"/>
+    </clipPath>
+    <clipPath id="id46" style="clip-rule:nonzero">
+     <path d="M1305 615l2 0 0 8 -2 0 0 -8z"/>
+    </clipPath>
+    <clipPath id="id47" style="clip-rule:nonzero">
+     <path d="M1369 616l3 0 0 7 -3 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id48" style="clip-rule:nonzero">
+     <path d="M1273 515l104 0 0 15 -104 0 0 -15z"/>
+    </clipPath>
+    <clipPath id="id49" style="clip-rule:nonzero">
+     <path d="M1340 509l30 0 0 6 -30 0 0 -6z"/>
+    </clipPath>
+    <clipPath id="id50" style="clip-rule:nonzero">
+     <path d="M1318 506l49 0 0 8 -49 0 0 -8z"/>
+    </clipPath>
+    <clipPath id="id51" style="clip-rule:nonzero">
+     <path d="M1342 497l22 0 0 5 -22 0 0 -5z"/>
+    </clipPath>
+    <clipPath id="id52" style="clip-rule:nonzero">
+     <path d="M1265 552l38 0 0 9 -38 0 0 -9z"/>
+    </clipPath>
+    <clipPath id="id53" style="clip-rule:nonzero">
+     <path d="M1282 534l41 0 0 18 -41 0 0 -18z"/>
+    </clipPath>
+    <clipPath id="id54" style="clip-rule:nonzero">
+     <path d="M1286 532l55 0 0 16 -55 0 0 -16z"/>
+    </clipPath>
+    <clipPath id="id55" style="clip-rule:nonzero">
+     <path d="M1325 539l23 0 0 7 -23 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id56" style="clip-rule:nonzero">
+     <path d="M1330 520l44 0 0 13 -44 0 0 -13z"/>
+    </clipPath>
+    <clipPath id="id57" style="clip-rule:nonzero">
+     <path d="M1391 526l7 0 0 3 -7 0 0 -3z"/>
+    </clipPath>
+    <clipPath id="id58" style="clip-rule:nonzero">
+     <path d="M1389 539l14 0 0 7 -14 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id59" style="clip-rule:nonzero">
+     <path d="M1390 544l10 0 0 5 -10 0 0 -5z"/>
+    </clipPath>
+    <clipPath id="id60" style="clip-rule:nonzero">
+     <path d="M1127 618l3 0 0 13 -3 0 0 -13z"/>
+    </clipPath>
+    <clipPath id="id61" style="clip-rule:nonzero">
+     <path d="M1099 584l35 0 0 79 -35 0 0 -79z"/>
+    </clipPath>
+    <clipPath id="id62" style="clip-rule:nonzero">
+     <path d="M1133 584l15 0 0 19 -15 0 0 -19z"/>
+    </clipPath>
+    <clipPath id="id63" style="clip-rule:nonzero">
+     <path d="M1089 606l2 0 0 7 -2 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id64" style="clip-rule:nonzero">
+     <path d="M1153 606l3 0 0 7 -3 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id65" style="clip-rule:nonzero">
+     <path d="M1068 512l96 0 0 41 -96 0 0 -41z"/>
+    </clipPath>
+    <clipPath id="id66" style="clip-rule:nonzero">
+     <path d="M1069 520l25 0 0 16 -25 0 0 -16z"/>
+    </clipPath>
+    <clipPath id="id67" style="clip-rule:nonzero">
+     <path d="M1070 515l47 0 0 16 -47 0 0 -16z"/>
+    </clipPath>
+    <clipPath id="id68" style="clip-rule:nonzero">
+     <path d="M1069 511l19 0 0 11 -19 0 0 -11z"/>
+    </clipPath>
+    <clipPath id="id69" style="clip-rule:nonzero">
+     <path d="M1156 516l27 0 0 28 -27 0 0 -28z"/>
+    </clipPath>
+    <clipPath id="id70" style="clip-rule:nonzero">
+     <path d="M1126 521l32 0 0 32 -32 0 0 -32z"/>
+    </clipPath>
+    <clipPath id="id71" style="clip-rule:nonzero">
+     <path d="M1108 521l45 0 0 35 -45 0 0 -35z"/>
+    </clipPath>
+    <clipPath id="id72" style="clip-rule:nonzero">
+     <path d="M1101 542l18 0 0 15 -18 0 0 -15z"/>
+    </clipPath>
+    <clipPath id="id73" style="clip-rule:nonzero">
+     <path d="M1072 527l36 0 0 28 -36 0 0 -28z"/>
+    </clipPath>
+    <clipPath id="id74" style="clip-rule:nonzero">
+     <path d="M1043 542l6 0 0 6 -6 0 0 -6z"/>
+    </clipPath>
+    <clipPath id="id75" style="clip-rule:nonzero">
+     <path d="M1045 554l10 0 0 11 -10 0 0 -11z"/>
+    </clipPath>
+    <clipPath id="id76" style="clip-rule:nonzero">
+     <path d="M1048 558l8 0 0 9 -8 0 0 -9z"/>
+    </clipPath>
+     <clipPath id="id77" style="clip-rule:nonzero">
+      <path d="M910 927l0 -4c-24,26 -54,25 -54,25 -44,-7 -68,-33 -68,-33l2 17c0,0 -23,29 -21,65 2,37 23,52 23,52l5 -12c0,0 -11,-9 -12,-36 0,-24 8,-31 8,-31l7 59c0,0 26,15 58,13 32,-3 46,-19 46,-19l4 -58c20,34 -5,70 -5,70l7 9c0,0 18,-15 20,-48 3,-44 -17,-66 -20,-69z"/>
+     </clipPath>
+     <clipPath id="id78" style="clip-rule:nonzero">
+      <path d="M789 929c0,0 25,31 53,38l14 -16 16 15c0,0 29,-23 39,-42l0 -7c0,0 -22,24 -55,31 0,0 -40,-5 -68,-33l1 14z"/>
+     </clipPath>
+    <clipPath id="id79" style="clip-rule:nonzero">
+     <path d="M866 829l16 0 0 19 -16 0 0 -19z"/>
+    </clipPath>
+    <clipPath id="id80" style="clip-rule:nonzero">
+     <path d="M860 863l3 0 0 13 -3 0 0 -13z"/>
+    </clipPath>
+    <clipPath id="id81" style="clip-rule:nonzero">
+     <path d="M832 829l35 0 0 79 -35 0 0 -79z"/>
+    </clipPath>
+    <clipPath id="id82" style="clip-rule:nonzero">
+     <path d="M822 851l3 0 0 7 -3 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id83" style="clip-rule:nonzero">
+     <path d="M886 851l3 0 0 7 -3 0 0 -7z"/>
+    </clipPath>
+    <clipPath id="id84" style="clip-rule:nonzero">
+     <path d="M801 768l96 0 0 41 -96 0 0 -41z"/>
+    </clipPath>
+    <clipPath id="id85" style="clip-rule:nonzero">
+     <path d="M802 773l26 0 0 16 -26 0 0 -16z"/>
+    </clipPath>
+    <clipPath id="id86" style="clip-rule:nonzero">
+     <path d="M803 768l47 0 0 16 -47 0 0 -16z"/>
+    </clipPath>
+    <clipPath id="id87" style="clip-rule:nonzero">
+     <path d="M803 767l19 0 0 11 -19 0 0 -11z"/>
+    </clipPath>
+    <clipPath id="id88" style="clip-rule:nonzero">
+     <path d="M890 772l26 0 0 29 -26 0 0 -29z"/>
+    </clipPath>
+    <clipPath id="id89" style="clip-rule:nonzero">
+     <path d="M859 777l32 0 0 32 -32 0 0 -32z"/>
+    </clipPath>
+    <clipPath id="id90" style="clip-rule:nonzero">
+     <path d="M842 777l44 0 0 35 -44 0 0 -35z"/>
+    </clipPath>
+    <clipPath id="id91" style="clip-rule:nonzero">
+     <path d="M834 798l19 0 0 15 -19 0 0 -15z"/>
+    </clipPath>
+    <clipPath id="id92" style="clip-rule:nonzero">
+     <path d="M805 783l36 0 0 28 -36 0 0 -28z"/>
+    </clipPath>
+    <clipPath id="id93" style="clip-rule:nonzero">
+     <path d="M770 796l13 0 0 13 -13 0 0 -13z"/>
+    </clipPath>
+    <clipPath id="id94" style="clip-rule:nonzero">
+     <path d="M777 799l5 0 0 5 -5 0 0 -5z"/>
+    </clipPath>
+    <clipPath id="id95" style="clip-rule:nonzero">
+     <path d="M773 800l15 0 0 15 -15 0 0 -15z"/>
+    </clipPath>
+    <clipPath id="id96" style="clip-rule:nonzero">
+     <path d="M776 805l10 0 0 11 -10 0 0 -11z"/>
+    </clipPath>
+    <clipPath id="id97" style="clip-rule:nonzero">
+     <path d="M780 814l8 0 0 9 -8 0 0 -9z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_344872120">
+   <polygon class="fil0" points="865,984 841,984 841,505 865,505 "/>
+   <polygon class="fil1" points="995,570 865,635 865,505 "/>
+  </g>
+  <g id="_344871832">
+   <polygon class="fil0" points="1791,984 1814,984 1814,505 1791,505 "/>
+   <polygon class="fil1" points="1661,570 1791,635 1791,505 "/>
+  </g>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="-689.58515" inkscape:cy="382.15398" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1274" inkscape:window-height="728" inkscape:window-x="76" inkscape:window-y="0" inkscape:window-maximized="0"/>
+  <g id="_344859808">
+   <path id="path596" class="fil2" d="M1605 580c0,0 2,-6 7,-3 5,4 0,17 -8,17l1 -14z"/>
+   <path id="path600" class="fil3" d="M1464 583c3,-4 7,-2 8,-1l-1 -8c0,0 1,-35 4,-37 2,-3 33,-13 36,-14 2,-1 50,-9 56,-7 5,2 28,8 29,9 1,1 11,20 11,20 0,0 -17,268 -19,287 0,0 -14,7 -23,0 0,0 -4,-27 -19,-40 0,0 -20,16 -22,43 0,0 -15,5 -25,0l-25 -234c-10,-1 -13,-13 -10,-18z"/>
+   <path id="path604" class="fil4" d="M1478 641c0,0 24,27 68,33 0,0 32,-6 55,-31l-7 106c0,0 -13,17 -45,19 -32,2 -59,-13 -59,-13l-7 -59c0,0 -8,7 -8,31 1,28 13,36 13,36l-5 12c0,0 -22,-14 -24,-52 -2,-36 21,-64 21,-64l-2 -18z"/>
+   <path id="path608" class="fil5" d="M1558 688l-5 14c0,0 -7,1 -12,0l-5 -13 10 -12 12 11z"/>
+   <g>
+    <path id="path612" class="fil6" d="M1553 702l10 48 -14 15 -17 -14 9 -49c0,0 5,1 12,0l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path616" class="fil7" d="M1524 835c0,0 -5,2 -14,2 0,0 -7,0 -11,-2l-1 -2c0,0 -4,1 -3,7 1,5 8,7 16,7 8,0 13,-3 15,-6 1,-4 -2,-6 -2,-6z"/>
+   <path id="path620" class="fil7" d="M1588 831c0,0 1,0 2,2 0,3 -1,7 -1,7 0,0 0,1 -3,2 -2,0 -6,2 -10,1 -4,0 -10,-1 -11,-6 -1,-3 -1,-5 0,-5 0,0 0,0 0,0 0,0 4,4 11,3 6,0 12,-3 12,-3l0 -1z"/>
+   <path id="path624" class="fil7" d="M1498 848c0,0 3,0 4,2 1,2 2,6 5,6 4,-1 5,-4 7,-5 2,-1 3,0 3,1 -1,2 -1,2 -1,5 0,4 0,5 -1,6 -1,1 -2,1 -4,2 -3,1 -8,3 -12,6 -3,3 -13,3 -15,-3 -2,-6 3,-9 7,-10 4,-1 8,-6 7,-10z"/>
+   <path id="path628" class="fil7" d="M1588 843c0,0 -2,0 -3,2 -1,3 -2,6 -6,6 -4,0 -4,-4 -7,-5 -2,-1 -2,0 -2,2 0,1 1,2 1,5 0,3 0,4 1,5 1,2 2,1 4,2 3,1 8,4 12,6 3,3 13,3 15,-3 2,-6 -3,-9 -7,-10 -4,0 -8,-6 -8,-10z"/>
+   <path id="path632" class="fil3" d="M1503 846l-1 5c0,0 1,4 5,5 4,0 5,-4 6,-4l1 -1 1 -4c0,0 -6,1 -12,-1z"/>
+   <g>
+    <path id="path636" class="fil3" d="M1584 842l1 4c0,0 -2,5 -5,5 -3,0 -5,-3 -6,-4 -1,-1 -1,-1 -1,-1l0 -3c0,0 5,1 11,-1l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path640" class="fil8" d="M1491 762c0,0 14,4 54,4 0,0 35,12 48,-7l-3 45 -2 28c0,0 -3,4 -12,4 -3,0 -7,-1 -11,-4 0,0 -5,-28 -19,-40 0,0 -17,14 -22,43 0,0 -15,5 -25,0l-4 -27 -4 -46z"/>
+   <path id="path644" class="fil9" d="M1608 515c0,-7 -3,-12 -9,-16 0,0 -1,-1 -1,-1 4,-1 8,1 8,1 -3,-4 -11,-3 -11,-3l0 -7 -3 6c-8,-24 -28,-27 -28,-27 6,2 10,14 10,14 -10,-8 -40,-15 -68,4 -27,20 -41,6 -41,6 3,7 13,12 13,12 -2,2 -4,4 -6,6l0 0c-9,27 -1,55 2,88 1,4 1,-4 1,-4 5,-7 1,-37 1,-37 36,3 56,-30 56,-30 -5,8 -5,16 -5,16 8,-13 24,-23 24,-23 -9,6 -12,19 -12,19 28,-34 44,-8 44,-8 25,-7 22,48 22,48 1,-3 3,-32 3,-35 1,-12 1,-17 0,-29z"/>
+   <polygon id="path648" class="fil10" points="1593,762 1593,762 1605,777 1596,778 1595,775 1592,771 1593,764 "/>
+   <path id="path652" class="fil11" d="M1592 777c0,0 2,-1 3,-2l-3 -4 0 6z"/>
+   <path id="path656" class="fil4" d="M1600 653l-3 38c22,34 -4,71 -4,71l7 8c0,0 18,-15 20,-48 4,-48 -20,-69 -20,-69z"/>
+   <g>
+    <path id="path660" class="fil12" d="M1509 662c0,0 13,45 37,62 0,0 31,-33 32,-62 0,0 16,-10 23,-19l-8 119 -30 24 -18 -16 -18 16 -36 -22 -8 -72 -5 -51c0,0 10,11 31,21l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <g>
+    <path id="path664" class="fil13" d="M1509 662c0,0 19,10 37,12 0,0 11,-1 32,-12 0,0 0,10 -5,20l-13 9 -14 -14 -13 15 -14 -4c0,0 -8,-15 -10,-26l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path668" class="fil3" d="M1494 769c0,0 2,0 4,2 0,0 2,9 -3,15 0,0 -4,-1 -7,-4l6 -13z"/>
+   <polygon id="path672" class="fil10" points="1494,768 1489,761 1479,783 1488,782 "/>
+   <path id="path676" class="fil14" d="M1511 589c2,-4 4,-4 7,0 2,3 0,7 0,10 0,0 0,1 -1,1 -3,5 -7,-7 -6,-11z"/>
+   <path id="path680" class="fil14" d="M1576 589c1,-4 4,-4 6,0 2,3 1,8 0,10 0,0 0,1 0,2 -4,4 -7,-8 -6,-12z"/>
+   <path id="path684" class="fil15" d="M1573 565c0,0 0,0 1,0 0,-1 1,-1 2,-1 1,0 1,0 2,0 0,0 1,0 1,0 0,0 1,1 1,1 1,0 1,0 2,1 1,0 2,1 3,1 2,1 3,1 4,2 1,0 2,0 2,1 1,0 1,0 1,0 0,0 0,0 0,-1 -1,0 -1,-1 -2,-2 -1,-1 -2,-2 -3,-3 -1,-1 -2,-1 -3,-2 -1,0 -1,-1 -2,-1 -1,0 -2,0 -3,0 -1,0 -2,0 -2,1 -1,0 -1,0 -2,1 -1,0 -1,1 -2,1 0,1 0,1 0,1z"/>
+   <path id="path688" class="fil15" d="M1521 565c0,0 0,0 -1,-1 0,0 -1,-1 -2,-1 0,-1 -1,-1 -2,-1 0,-1 -1,-1 -2,-1 -1,0 -2,0 -2,0 -1,0 -2,1 -2,1 -2,1 -3,1 -4,2 -1,1 -2,2 -3,3 0,1 -1,2 -1,2 -1,1 -1,1 -1,1 0,0 1,0 1,0 1,-1 2,-1 3,-1 1,-1 2,-1 3,-2 1,0 2,-1 3,-1 1,-1 2,-1 2,-1 1,0 1,-1 1,-1 1,0 1,0 2,0 0,0 1,0 1,0 1,0 2,0 3,1 0,0 1,0 1,0z"/>
+   <path id="path692" class="fil16" d="M1554 618c0,0 0,0 0,0 -1,0 -1,0 -2,-1 0,0 -1,0 -2,0 0,0 -1,0 -2,0 -1,0 -1,0 -2,0 -1,0 -2,0 -2,0 -1,1 -1,1 -1,1 -1,0 -1,0 -1,0 0,0 0,1 1,1 0,0 0,0 1,0 1,1 1,1 2,1 1,0 1,0 2,0 1,0 2,0 2,0 1,-1 2,-1 2,-1 1,0 1,-1 2,-1 0,0 0,0 0,0z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <path id="path702" class="fil16" d="M1553 613c0,0 0,-1 0,-1 0,0 0,-1 0,-2 0,0 0,-1 0,-2 0,-1 0,-1 0,-2 0,-1 0,-2 -1,-3 0,0 0,-1 0,-2 0,0 -1,-1 -1,-1 0,-1 0,-1 0,-1 0,0 0,0 0,1 0,0 -1,1 -1,1 0,1 0,2 0,3 0,0 0,1 0,2 0,1 1,2 1,3 0,0 0,1 1,2 0,0 0,1 1,1 0,0 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1550,599 1553,599 1553,613 1550,613 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id1)">
+    <g>
+     <path id="path718" class="fil18" d="M1534 586c0,0 1,-1 1,-1 0,-1 0,-2 0,-3 0,-2 0,-3 -1,-5 0,-1 0,-3 -1,-4 -1,-2 -2,-3 -3,-4 -1,-1 -2,-2 -4,-3 -1,-1 -2,-1 -3,-1 0,1 -1,1 -1,1 0,0 0,0 1,0 1,1 1,2 2,2 0,1 1,2 2,3 0,1 1,3 2,4 1,1 1,2 2,4 1,1 2,2 2,3 0,1 1,2 1,3 0,0 0,1 0,1z"/>
+     <path id="path722" class="fil19" d="M1557 644c0,0 -1,-1 -5,-1 -6,0 -16,0 -18,0 -4,-1 -7,-4 -7,-4 0,0 1,5 8,5 6,0 22,0 22,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1522,565 1557,565 1557,644 1522,644 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id2)">
+    <g>
+     <path id="path738" class="fil18" d="M1556 584c0,0 0,0 1,-1 0,0 0,-1 0,-1 0,0 1,-1 1,-1 0,-1 1,-3 2,-4 1,-1 2,-2 3,-3 1,-1 2,-2 3,-3 1,-1 2,-2 2,-3 1,0 1,0 2,-1 0,0 0,0 1,0 0,-1 0,-1 0,-1 0,0 0,0 -1,0 0,0 -1,0 -1,0 -1,0 -1,0 -2,0 -1,0 -3,1 -4,2 -1,1 -3,2 -4,3 -1,2 -1,3 -2,5 0,1 -1,3 -1,4 0,1 0,2 0,3 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1556,566 1571,566 1571,584 1556,584 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id3)">
+    <g>
+     <path id="path754" class="fil20" d="M1514 587c0,0 0,0 0,0 0,0 0,1 -1,1 0,0 0,0 0,1 -1,0 -1,1 -1,1 0,1 0,1 0,2 0,0 0,1 0,1 0,0 1,1 1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 1,-1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 1,-1 1,-1 1,-1 0,-1 0,-1 0,-2 0,0 0,0 0,-1 -1,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1512,587 1515,587 1515,594 1512,594 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id4)">
+    <g>
+     <path id="path770" class="fil20" d="M1579 587c0,0 0,0 -1,0 0,0 0,1 0,1 -1,0 -1,1 -1,1 0,0 -1,1 -1,1 0,1 0,1 0,2 0,0 0,1 0,1 1,0 1,1 1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 1,0 1,-1 0,0 0,0 0,-1 1,0 1,-1 1,-1 0,-1 0,-1 0,-1 0,-1 0,-1 0,-2 0,0 0,0 0,-1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1576,587 1579,587 1579,594 1576,594 "/>
+   <g>
+    <path id="path780" class="fil9" d="M1560 653c-10,1 -13,-6 -13,-6 -5,12 -22,7 -25,0 -3,-7 0,-10 0,-10 9,-5 25,-5 25,-5 7,-1 21,2 24,6 4,5 -2,14 -11,15l0 0zm26 -22c-11,0 -15,-6 -28,-7 0,0 -14,3 -32,-1 0,0 -8,3 -17,7 -9,5 -19,-3 -22,-12 -2,-4 -8,-19 -10,-31 -3,0 -3,0 -4,4 1,3 0,7 1,10 1,8 4,42 4,42 0,0 21,29 69,31 0,0 25,3 54,-23 0,0 1,-25 2,-38 0,0 -2,17 -17,18l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <g>
+   </g>
+   <g style="clip-path:url(#id5)">
+    <g>
+     <path id="path790" class="fil21" d="M1580 507c0,0 0,0 0,0 0,0 0,-1 -1,-1 0,-1 -1,-2 -2,-2 -3,-2 -7,-4 -12,-6 -5,-1 -11,-2 -17,-2 -7,0 -14,2 -20,4 -7,2 -13,5 -19,8 -6,2 -11,5 -16,6 -5,2 -9,3 -12,3 -1,0 -3,0 -3,0 -1,0 -2,0 -2,0 0,0 1,0 2,0 0,0 2,0 3,0 3,0 7,0 12,-2 5,-1 11,-3 17,-5 6,-3 12,-6 19,-8 6,-2 13,-4 19,-4 6,0 12,0 17,2 5,1 9,2 12,4 1,1 2,1 2,2 1,0 1,1 1,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1476,496 1580,496 1580,517 1476,517 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id6)">
+    <g>
+     <path id="path806" class="fil21" d="M1571 493c0,0 -1,-1 -1,-1 -1,0 -2,-1 -4,-1 -1,0 -3,-1 -4,-1 -2,-1 -4,-1 -6,-1 -2,0 -4,0 -6,0 -1,0 -3,0 -4,1 -2,0 -3,0 -4,1 -1,0 -1,0 -1,0 0,0 0,0 1,0 1,0 2,0 4,0 1,0 3,0 4,0 2,0 4,0 6,0 2,0 4,0 5,0 2,0 4,1 5,1 2,0 3,0 4,0 0,1 1,1 1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1541,489 1571,489 1571,493 1541,493 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id7)">
+    <g>
+     <path id="path822" class="fil21" d="M1568 489c0,0 0,-1 -1,-1 0,0 -1,0 -1,0 -2,-1 -4,-1 -6,-2 -2,0 -5,0 -8,0 -3,0 -6,0 -10,1 -3,1 -6,2 -8,3 -3,1 -6,3 -8,4 -2,1 -4,2 -5,3 -1,1 -2,1 -2,1 0,0 1,0 2,-1 2,0 4,-1 6,-2 2,-1 5,-2 7,-3 3,-1 6,-2 9,-3 3,-1 6,-1 9,-1 3,-1 6,-1 8,-1 2,0 4,1 6,1 0,0 1,0 1,0 1,0 1,1 1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1519,486 1568,486 1568,498 1519,498 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id8)">
+    <g>
+     <path id="path838" class="fil21" d="M1564 481c0,0 -1,0 -1,-1 -1,0 -1,-1 -2,-1 -1,0 -3,-1 -4,-1 -1,-1 -3,-1 -4,-1 -2,0 -3,0 -5,0 -1,0 -2,1 -3,1 -1,0 -2,1 -3,1 0,1 -1,1 -1,1 0,0 1,0 1,0 1,-1 2,-1 3,-1 1,0 2,0 4,0 1,0 2,0 4,0 1,0 2,0 4,0 1,0 2,1 3,1 1,0 2,0 3,0 0,1 1,1 1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1541,477 1564,477 1564,481 1541,481 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id9)">
+    <g>
+     <path id="path854" class="fil21" d="M1509 544c0,0 0,0 -1,0 -1,1 -1,1 -2,1 -1,0 -2,1 -2,1 -2,1 -4,1 -6,2 -3,1 -5,1 -7,1 -3,1 -5,1 -8,1 -2,0 -4,0 -6,-1 -1,0 -2,0 -2,0 -1,0 -2,0 -2,0 -1,0 -2,-1 -2,-1 0,0 0,1 1,1 1,0 2,1 2,1 1,0 2,0 3,1 2,0 4,0 6,1 3,0 5,0 8,-1 2,0 5,-1 7,-1 2,-1 4,-2 6,-3 1,0 2,-1 2,-1 1,-1 1,-1 2,-1 1,-1 1,-1 1,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1471,544 1509,544 1509,552 1471,552 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id10)">
+    <g>
+     <path id="path870" class="fil21" d="M1534 524c0,0 0,0 -2,0 0,1 -1,1 -2,1 -1,0 -2,0 -3,1 -2,0 -4,0 -7,1 -2,0 -5,0 -8,0 -3,0 -6,1 -8,1 -3,0 -5,1 -8,1 -1,0 -2,1 -2,1 -1,0 -2,0 -3,1 -1,0 -1,0 -1,0 0,0 0,0 2,0 0,0 1,0 2,0 1,-1 2,-1 3,-1 2,0 4,0 7,-1 2,0 5,0 8,0 3,0 6,-1 8,-1 3,0 6,-1 8,-2 1,0 2,0 2,-1 1,0 2,0 2,0 2,-1 2,-1 2,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1490,524 1534,524 1534,531 1490,531 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id11)">
+    <g>
+     <path id="path886" class="fil21" d="M1547 512c0,0 -1,0 -2,1 -2,1 -4,2 -6,2 -3,1 -6,2 -9,2 -4,0 -7,1 -11,1 -3,0 -7,1 -10,2 -4,1 -7,2 -9,3 -3,1 -5,2 -6,3 -1,1 -2,1 -2,1 0,0 1,0 2,-1 2,0 4,-1 6,-2 3,-1 6,-2 9,-2 3,-1 7,-2 10,-2 4,-1 8,-1 11,-1 3,-1 6,-2 9,-3 3,-1 5,-2 6,-3 1,-1 2,-1 2,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1492,512 1547,512 1547,527 1492,527 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id12)">
+    <g>
+     <path id="path902" class="fil21" d="M1552 506c0,0 0,0 -1,0 0,1 -1,1 -2,1 -1,1 -3,1 -4,1 -1,1 -3,1 -4,1 -2,0 -3,1 -5,1 -1,0 -3,0 -4,1 -1,0 -2,0 -2,1 -1,0 -1,0 -1,0 0,0 0,0 1,0 0,0 1,0 2,0 2,0 3,-1 4,-1 2,0 3,0 5,0 1,0 3,-1 4,-1 2,-1 3,-1 4,-2 1,0 2,-1 2,-1 1,-1 1,-1 1,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1529,506 1552,506 1552,512 1529,512 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id13)">
+    <g>
+     <path id="path918" class="fil21" d="M1578 510c0,0 -1,0 -2,-1 -1,-1 -2,-2 -4,-3 -2,-1 -5,-2 -7,-3 -3,-1 -6,-2 -9,-2 -3,0 -6,0 -9,0 -3,0 -5,0 -7,1 -3,0 -4,0 -6,1 -1,0 -2,0 -2,0 0,0 1,0 2,0 2,0 4,0 6,0 2,0 4,0 7,0 3,0 6,0 9,0 3,0 5,1 8,1 3,1 5,2 7,3 2,1 4,2 5,2 1,1 2,1 2,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1532,501 1578,501 1578,510 1532,510 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id14)">
+    <g>
+     <path id="path934" class="fil21" d="M1595 503c0,0 0,1 1,1 0,0 0,0 0,0 1,0 1,1 1,1 1,0 1,1 1,1 1,0 1,0 1,1 1,0 1,0 1,0 1,1 1,1 1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,-1 0,0 0,-1 -1,-1 0,-1 0,-1 -1,-1 0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0 -1,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1595,503 1601,503 1601,508 1595,508 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id15)">
+    <g>
+     <path id="path950" class="fil21" d="M1590 516c0,0 0,0 0,0 1,0 1,0 2,0 1,1 1,1 2,2 1,1 1,1 2,2 1,1 1,1 2,2 1,1 1,1 2,2 0,0 1,1 1,1 0,0 0,1 0,1 0,0 0,-1 0,-1 0,-1 0,-1 0,-2 -1,-1 -1,-1 -2,-2 0,-1 -1,-2 -2,-2 0,-1 -1,-2 -2,-2 -1,-1 -2,-1 -3,-1 0,-1 -1,-1 -2,-1 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1590,515 1601,515 1601,526 1590,526 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id16)">
+    <g>
+     <path id="path966" class="fil21" d="M1589 520c0,0 0,0 1,0 0,0 0,0 0,1 0,0 1,0 1,0 0,1 1,1 1,1 1,1 1,1 2,2 0,0 1,1 1,1 1,1 2,1 2,2 0,0 1,0 1,1 0,0 0,0 0,0 0,0 0,0 0,-1 0,0 0,0 0,-1 0,0 -1,-1 -1,-2 -1,0 -1,-1 -2,-1 0,-1 -1,-1 -2,-2 0,0 -1,0 -2,-1 0,0 0,0 -1,0 0,0 0,0 0,0 -1,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1589,520 1598,520 1598,528 1589,528 "/>
+  </g>
+  <sodipodi:namedview inkscape:window-maximized="0" inkscape:window-y="0" inkscape:window-x="76" inkscape:window-height="728" inkscape:window-width="1274" showgrid="false" inkscape:document-rotation="0" inkscape:current-layer="layer1" inkscape:document-units="mm" inkscape:cy="450.58345" inkscape:cx="-752.89729" inkscape:zoom="0.35" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base"/>
+  <g>
+   <path id="path64" class="fil3" d="M1855 1087c0,0 -2,24 3,26 5,2 -1,6 -1,6 -1,0 -7,-1 -8,-1 0,0 -3,-4 -3,-4 0,0 0,-14 -3,-24 -4,-9 4,-7 4,-7 1,1 8,3 8,3l0 1z"/>
+   <path id="path68" class="fil3" d="M1777 1091c0,0 0,25 -3,28 -2,4 4,6 4,6l9 -8c0,0 0,-7 2,-14 2,-7 5,-13 5,-15 0,-3 -4,-2 -6,-2 -1,0 -7,1 -8,1 -1,0 -3,4 -3,4z"/>
+   <path id="path72" class="fil2" d="M1877 846c0,0 3,-6 8,-3 5,4 -1,17 -9,18l1 -15z"/>
+   <path id="path76" class="fil3" d="M1737 849c2,-4 6,-2 7,-1l-1 -8c0,0 2,-34 4,-37 2,-2 33,-13 36,-14 2,-1 51,-9 56,-7 6,2 28,8 29,9 2,1 11,20 11,20 0,0 -15,255 -18,275 0,0 -18,11 -30,2 0,0 2,-17 -13,-30 0,0 -13,11 -17,31 0,0 -14,10 -30,1l-25 -223c-10,0 -13,-13 -9,-18z"/>
+   <path id="path80" class="fil19" d="M1831 912c0,0 -2,-2 -6,-2 -6,1 -16,1 -18,0 -4,0 -7,-3 -7,-3 0,0 2,5 8,5 6,0 23,0 23,0z"/>
+   <path id="path84" class="fil21" d="M1801 889c0,0 -6,1 -12,7 -5,6 -17,3 -22,-2 0,0 2,19 24,20 22,1 27,-11 27,-11 0,0 4,11 23,10 18,-2 22,-20 22,-20 0,0 -5,8 -15,6 -10,-1 -10,-9 -19,-9 0,0 -9,2 -28,-1z"/>
+   <path id="path88" class="fil22" d="M1872 919c0,0 0,0 0,0l1 -10c-23,25 -54,31 -54,31 -45,-6 -69,-33 -69,-33l2 18c0,0 -23,28 -21,65 2,37 27,55 27,55 0,0 2,-3 4,-6 1,-3 1,-7 1,-7 0,0 -15,-11 -15,-38 -1,-25 8,-32 8,-32l7 66c0,0 9,16 54,15 42,-1 49,-18 49,-18l4 -68c21,35 -5,71 -5,71l8 8c0,0 18,-15 20,-48 3,-45 -18,-66 -21,-69z"/>
+   <path id="path92" class="fil4" d="M1872 919c0,0 0,0 0,0l1 -10c-23,25 -54,31 -54,31 -45,-6 -69,-33 -69,-33l2 18c0,0 -23,28 -21,65 2,37 27,55 27,55 0,0 2,-3 4,-6 1,-3 1,-7 1,-7 0,0 -15,-11 -15,-38 -1,-25 8,-32 8,-32l7 66c0,0 9,16 54,15 42,-1 49,-18 49,-18l4 -68c21,35 -5,71 -5,71l8 8c0,0 18,-15 20,-48 3,-45 -18,-66 -21,-69z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id17)">
+    <g>
+     <polygon id="path102" class="fil23" points="1915,927 1709,927 1709,917 1915,917 "/>
+     <polygon id="path104" class="fil23" points="1915,949 1709,949 1709,938 1915,938 "/>
+     <polygon id="path106" class="fil23" points="1915,970 1709,970 1709,960 1915,960 "/>
+     <polygon id="path108" class="fil23" points="1915,992 1709,992 1709,982 1915,982 "/>
+     <polygon id="path110" class="fil23" points="1915,1014 1709,1014 1709,1003 1915,1003 "/>
+     <polygon id="path112" class="fil23" points="1915,1035 1709,1035 1709,1025 1915,1025 "/>
+    </g>
+   </g>
+   <path class="fil24" d="M1752 925c0,0 -23,28 -21,65l0 0c2,37 27,55 27,55l0 0c0,0 2,-3 4,-6l0 0c1,-3 1,-7 1,-7l0 0c0,0 -15,-11 -15,-38l0 0c-1,-25 8,-32 8,-32l0 0 7 66c0,0 9,16 54,15l0 0c42,-1 49,-18 49,-18l0 0 4 -68c21,35 -5,71 -5,71l0 0 8 8c0,0 18,-15 20,-48l0 0c3,-45 -18,-66 -21,-69l0 0 1 -10c-23,25 -54,31 -54,31l0 0c-45,-6 -69,-33 -69,-33l0 0 2 18z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id18)">
+    <g>
+     <g>
+     </g>
+     <g style="clip-path:url(#id19)">
+      <image id="path180" x="1870" y="919" width="2.76321" height="38.1609" xlink:href="kastil_Images\kastil_ImgID1.png"/>
+     </g>
+     <g style="clip-path:url(#id20)">
+     </g>
+    </g>
+   </g>
+   <polygon class="fil24" points="1870,919 1872,919 1872,957 1870,957 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id21)">
+    <g>
+     <g>
+     </g>
+     <g style="clip-path:url(#id22)">
+      <image id="path230" x="1870" y="919" width="2.76321" height="38.1609" xlink:href="kastil_Images\kastil_ImgID2.png"/>
+     </g>
+     <g style="clip-path:url(#id23)">
+     </g>
+    </g>
+   </g>
+   <polygon class="fil24" points="1870,919 1872,919 1872,957 1870,957 "/>
+   <path id="path240" class="fil11" d="M1864 1043c0,0 5,-4 7,-8l-6 -7 -1 15z"/>
+   <path id="path244" class="fil25" d="M1771 1114c0,0 2,0 3,2 2,3 2,6 6,6 4,0 5,-4 7,-5 2,-1 2,0 2,2 0,1 -1,2 -1,5 0,3 1,4 -1,5 -1,2 -2,1 -4,2 -3,1 -8,4 -11,6 -4,3 -14,3 -16,-3 -1,-6 3,-9 7,-10 4,0 9,-6 8,-10z"/>
+   <path id="path248" class="fil25" d="M1861 1110c0,-1 -2,-1 -4,1 -1,3 -1,6 -5,6 -4,0 -5,-3 -7,-5 -2,-1 -2,0 -2,2 0,1 1,2 0,5 0,3 0,4 1,6 2,1 2,0 5,1 2,1 7,4 11,7 4,2 13,2 15,-4 2,-6 -2,-9 -7,-9 -4,-1 -8,-7 -7,-10z"/>
+   <path id="path252" class="fil8" d="M1763 1028c0,0 11,15 52,15 0,0 38,1 51,-18l-4 61c0,0 -9,4 -17,5 -5,1 -10,0 -14,-3 0,0 1,-18 -13,-30 0,0 -14,12 -17,31 0,0 -14,10 -30,1l-8 -62z"/>
+   <path id="path256" class="fil3" d="M1763 1033c0,0 5,2 7,4 0,0 2,10 -2,15 0,0 -6,-2 -9,-8 0,0 2,-4 3,-5 1,-3 1,-6 1,-6z"/>
+   <g>
+    <path id="path260" class="fil21" d="M1774 916c0,0 10,5 17,5 7,1 5,5 10,9 3,2 8,2 10,2 2,0 4,-1 5,-4 2,-5 -3,-8 -3,-8l-3 -2c9,1 18,0 18,0l-3 2c0,0 0,0 0,0 -1,2 -3,4 -2,7 1,5 9,3 9,3 6,-2 10,-5 12,-8 4,-6 2,-5 9,-8 7,-3 19,-6 23,-44l-3 39c0,0 -2,28 -21,38 0,0 7,-8 8,-16 0,0 -12,21 -28,28 0,0 2,-1 3,-5 0,0 -9,6 -20,5l-5 -1c0,0 -12,0 -18,-4 0,0 -3,-3 -5,-7 0,0 2,6 4,9 0,0 -11,-7 -14,-16 0,0 2,8 5,11 0,0 -23,-16 -32,-44l-2 -25c0,0 7,25 26,34l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path264" class="fil14" d="M1785 855c1,-3 4,-4 6,0 2,3 1,7 0,11 0,0 0,0 0,1 -4,5 -7,-8 -6,-12z"/>
+   <path id="path268" class="fil14" d="M1849 855c1,-3 4,-4 6,0 3,3 1,8 1,11 0,0 -1,1 -1,1 -4,4 -7,-8 -6,-12z"/>
+   <path id="path272" class="fil14" d="M1846 831c0,0 0,0 1,0 1,0 1,0 2,-1 1,0 1,0 2,0 1,0 1,0 2,0 0,1 0,1 1,1 0,0 1,1 1,1 2,0 3,1 4,2 1,0 2,0 3,1 1,0 2,1 2,1 1,0 1,0 1,0 0,0 0,0 0,-1 0,0 -1,-1 -2,-2 0,-1 -1,-2 -2,-3 -1,0 -3,-1 -4,-2 0,0 -1,0 -2,-1 0,0 -2,0 -3,0 -1,0 -1,0 -2,1 0,0 -1,0 -1,1 -1,0 -2,1 -2,1 -1,1 -1,1 -1,1z"/>
+   <path id="path276" class="fil14" d="M1794 831c0,0 0,0 -1,-1 0,0 -1,-1 -2,-1 0,-1 -1,-1 -1,-1 -1,-1 -1,-1 -2,-1 -1,0 -2,0 -3,0 -1,1 -1,1 -2,1 -1,1 -3,2 -4,2 -1,1 -2,2 -2,3 -1,1 -1,2 -2,2 0,1 0,1 0,1 0,0 0,0 1,0 0,0 1,-1 2,-1 1,-1 2,-1 3,-1 1,-1 3,-2 4,-2 0,0 1,-1 2,-1 0,0 0,0 1,-1 0,0 1,0 1,0 1,0 1,0 2,0 1,1 2,1 2,1 1,0 1,0 1,0z"/>
+   <path id="path280" class="fil16" d="M1828 884c0,0 0,0 -1,0 0,0 -1,0 -1,0 -1,-1 -2,-1 -2,-1 -1,0 -2,0 -2,0 -1,0 -2,0 -3,0 0,0 -1,0 -2,1 0,0 -1,0 -1,0 0,0 -1,1 -1,1 0,0 1,0 1,0 0,0 1,0 1,1 1,0 2,0 2,0 1,0 2,0 3,0 0,0 1,0 2,0 1,0 1,-1 2,-1 0,0 1,0 1,-1 1,0 1,0 1,0z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id24)">
+    <g>
+     <path id="path290" class="fil16" d="M1826 879c0,0 0,0 0,-1 1,0 1,-1 1,-1 0,-1 0,-2 0,-3 0,0 -1,-1 -1,-2 0,-1 0,-2 0,-2 0,-1 -1,-2 -1,-3 0,0 0,-1 0,-1 -1,0 -1,-1 -1,-1 0,0 0,1 0,1 0,0 0,1 0,2 0,0 -1,1 -1,2 0,1 1,2 1,2 0,1 0,2 0,3 0,1 1,1 1,2 0,1 1,1 1,1 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1823,865 1827,865 1827,879 1823,879 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id25)">
+    <g>
+     <path id="path306" class="fil18" d="M1808 852c0,0 0,-1 0,-1 0,-1 0,-2 0,-3 0,-1 0,-3 0,-4 0,-2 -1,-4 -2,-5 0,-2 -1,-3 -3,-4 -1,-1 -2,-2 -3,-3 -1,0 -3,0 -3,0 -1,0 -1,0 -1,0 0,0 0,0 0,1 1,0 2,1 2,1 1,1 1,2 2,3 1,2 2,3 2,4 1,1 2,3 3,4 0,1 1,2 1,3 1,1 1,2 2,3 0,0 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1796,832 1808,832 1808,852 1796,852 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id26)">
+    <g>
+     <path id="path322" class="fil18" d="M1830 850c0,0 0,0 0,-1 0,0 0,0 1,-1 0,0 0,-1 0,-1 1,-1 2,-2 2,-4 1,-1 2,-2 3,-3 1,-1 2,-2 3,-3 1,-1 2,-2 3,-2 0,-1 1,-1 1,-1 0,-1 1,-1 1,-1 1,-1 1,-1 1,-1 0,0 -1,0 -1,0 -1,0 -1,0 -2,0 0,0 -1,0 -1,0 -2,0 -3,1 -5,2 -1,1 -2,2 -3,3 -1,2 -2,3 -3,5 0,2 0,3 0,4 -1,2 0,3 0,3 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1830,832 1845,832 1845,850 1830,850 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id27)">
+    <g>
+     <path id="path338" class="fil20" d="M1788 853c0,0 0,0 0,0 -1,1 -1,1 -1,1 0,0 -1,1 -1,1 0,0 0,1 -1,1 0,1 0,1 0,2 0,0 1,1 1,1 0,1 0,1 0,1 0,0 0,0 0,0 0,0 0,0 0,0 1,0 1,0 1,-1 0,0 0,0 1,-1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 0,-1 0,-1 0,-2 0,0 0,0 0,0 0,-1 0,-1 0,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1785,853 1788,853 1788,860 1785,860 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id28)">
+    <g>
+     <path id="path354" class="fil20" d="M1852 853c0,0 0,0 0,0 0,1 -1,1 -1,1 0,0 -1,1 -1,1 0,1 0,1 0,2 0,0 0,1 0,1 0,0 0,1 0,1 0,1 0,1 0,1 0,0 1,0 1,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,0 1,0 1,-1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 0,-1 0,-1 0,-1 0,-1 0,-1 0,-1 0,-1 0,-1 0,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1850,853 1852,853 1852,860 1850,860 "/>
+   <path id="path364" class="fil26" d="M1849 775c0,0 -24,-27 -70,4 0,0 45,-39 70,-4z"/>
+   <g>
+    <path id="path368" class="fil21" d="M1736 789c1,-2 2,-6 4,-10 -1,-7 -4,-13 -3,-20 3,1 9,0 13,0 5,0 9,1 14,1 7,-1 14,-2 21,-4 15,-3 32,-8 47,-4 11,3 13,11 19,18 0,0 0,0 0,0 4,-4 15,-7 20,-3 9,5 12,19 14,28 3,10 0,18 -3,28 -1,4 -2,9 -3,14 0,0 0,0 0,0 0,0 0,0 0,0 -1,1 -1,3 -2,4 0,1 -1,3 -2,4 0,0 1,-3 1,-8 -1,-4 -3,-7 -5,-11 -1,-4 -2,-8 -3,-11 -2,-5 -5,-9 -6,-13 -2,-4 -4,-8 -5,-12 -1,3 -12,5 -15,6 -10,4 -22,4 -32,3 -1,0 -1,0 -1,0 -3,2 -6,5 -9,7 0,0 -17,17 -50,18 0,0 2,18 -3,24 0,0 -20,-30 -11,-59l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <g>
+   </g>
+   <g style="clip-path:url(#id29)">
+    <g>
+     <path id="path378" class="fil21" d="M1853 789c0,0 0,0 0,-1 0,0 0,0 0,-1 0,0 -1,-1 -2,-3 -1,-2 -4,-5 -9,-8 -4,-3 -9,-7 -15,-9 -6,-2 -13,-3 -20,-3 -7,0 -14,0 -21,1 -6,0 -12,1 -17,0 -5,0 -9,-1 -12,-1 -2,-1 -3,-1 -4,-1 0,0 -1,0 -1,0 0,0 1,0 1,0 1,0 2,1 4,1 3,1 7,2 12,3 5,0 11,0 18,0 6,0 13,-1 20,-1 6,0 13,1 19,3 6,2 11,5 16,8 4,2 7,5 9,8 1,1 1,2 2,3 0,0 0,0 0,0 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1752,763 1853,763 1853,789 1752,789 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id30)">
+    <g>
+     <path id="path394" class="fil21" d="M1845 773c0,0 -1,0 -1,-1 -1,-1 -2,-1 -3,-2 -1,-1 -2,-2 -4,-3 -2,-1 -3,-2 -5,-3 -2,0 -4,-1 -5,-2 -2,0 -4,0 -5,-1 -2,0 -3,0 -4,0 0,0 -1,0 -1,0 0,0 1,0 1,0 1,1 2,1 4,1 1,1 2,2 4,2 2,1 3,1 5,2 2,1 4,2 5,2 2,1 3,2 5,2 1,1 2,2 3,2 0,1 1,1 1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1817,761 1845,761 1845,773 1817,773 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id31)">
+    <g>
+     <path id="path410" class="fil21" d="M1843 768c0,0 0,0 0,0 -1,-1 -1,-1 -2,-2 -1,0 -2,-2 -4,-3 -2,-1 -5,-2 -8,-3 -3,-1 -6,-2 -9,-2 -3,0 -7,-1 -10,0 -3,0 -5,0 -8,1 -2,0 -4,0 -5,1 -2,0 -3,0 -3,0 0,0 1,0 3,0 1,0 3,0 5,0 3,0 6,0 8,0 3,0 7,0 10,0 3,0 6,1 9,1 3,1 5,2 7,3 2,1 4,2 5,3 1,0 1,0 2,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1794,758 1843,758 1843,768 1794,768 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id32)">
+    <g>
+     <path id="path426" class="fil21" d="M1843 762c0,0 -1,0 -1,0 0,-1 -1,-1 -2,-2 -1,-1 -2,-2 -3,-3 -1,0 -2,-1 -3,-2 -2,0 -3,-1 -5,-1 -1,0 -2,-1 -3,-1 -1,0 -2,1 -3,1 -1,0 -1,0 -1,0 0,0 0,0 1,0 1,0 1,0 3,1 1,0 2,0 3,1 1,0 3,0 4,1 1,0 2,1 4,2 1,0 2,1 3,1 1,1 1,2 2,2 0,0 1,0 1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1822,753 1843,753 1843,762 1822,762 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id33)">
+    <g>
+     <path id="path442" class="fil21" d="M1772 795c0,0 -1,-1 -2,-1 -1,0 -1,0 -2,-1 -1,0 -1,0 -2,-1 -2,0 -4,-2 -6,-3 -2,-1 -4,-2 -6,-4 -2,-1 -3,-3 -5,-5 -2,-1 -3,-3 -4,-4 -1,-1 -1,-2 -2,-2 0,-1 -1,-1 -1,-2 -1,-1 -1,-1 -1,-1 0,0 0,0 1,1 0,1 0,1 0,2 1,1 1,2 2,2 1,2 2,4 4,6 1,2 3,3 5,5 2,1 4,3 6,4 3,1 5,2 6,2 1,0 2,1 3,1 1,0 1,0 2,0 1,0 2,1 2,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1741,771 1772,771 1772,795 1741,795 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id34)">
+    <g>
+     <path id="path458" class="fil21" d="M1803 798c0,0 0,0 -2,-1 0,0 -1,0 -1,-1 -1,0 -2,-1 -3,-1 -2,-1 -4,-3 -6,-5 -2,-1 -4,-3 -6,-5 -2,-2 -4,-4 -6,-6 -2,-1 -5,-3 -6,-4 -1,0 -2,-1 -3,-1 -1,-1 -1,-1 -2,-1 -1,-1 -2,-1 -2,-1 0,0 1,0 2,1 0,0 1,1 2,1 0,1 1,1 2,2 2,1 4,3 6,5 2,1 4,3 6,5 2,2 4,4 6,5 3,2 5,3 7,4 1,1 1,1 2,2 1,0 2,0 2,1 2,0 2,0 2,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1766,772 1803,772 1803,798 1766,798 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id35)">
+    <g>
+     <path id="path474" class="fil21" d="M1821 799c0,0 -1,-1 -3,-1 -1,0 -3,-1 -6,-3 -2,-1 -5,-3 -7,-5 -3,-2 -5,-4 -8,-7 -3,-2 -6,-4 -9,-6 -3,-1 -6,-3 -8,-4 -3,-1 -5,-1 -7,-2 -1,0 -2,0 -2,0 0,0 1,0 2,0 2,1 4,2 6,3 2,1 5,3 8,5 3,2 6,4 9,6 2,2 5,5 8,7 3,1 5,3 8,4 2,1 5,2 6,2 2,1 3,1 3,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1771,771 1821,771 1821,799 1771,799 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id36)">
+    <g>
+     <path id="path490" class="fil21" d="M1829 798c0,0 -1,0 -1,0 -1,0 -2,-1 -3,-1 -1,-1 -2,-1 -3,-2 -2,-1 -3,-2 -4,-3 -1,-1 -2,-1 -4,-2 -1,-1 -2,-2 -3,-2 -1,-1 -2,-1 -2,-2 -1,0 -1,0 -1,0 0,0 0,0 0,1 1,0 2,1 3,1 0,1 1,2 2,3 2,1 3,2 4,3 1,1 3,1 4,2 1,1 3,1 4,2 1,0 2,0 2,0 1,0 2,0 2,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1808,786 1829,786 1829,798 1808,798 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id37)">
+    <g>
+     <path id="path506" class="fil21" d="M1850 791c0,0 -1,-1 -1,-2 -1,-1 -2,-3 -3,-4 -2,-2 -4,-4 -6,-5 -2,-2 -5,-4 -7,-5 -3,-2 -6,-3 -9,-4 -2,0 -5,-1 -7,-1 -2,-1 -4,-1 -5,-1 -2,0 -2,0 -2,0 0,0 0,0 2,0 1,1 3,1 5,2 2,0 4,1 7,2 2,1 5,2 8,4 2,1 5,2 7,4 2,1 4,3 6,4 1,2 3,3 4,4 0,1 1,2 1,2z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1810,769 1850,769 1850,791 1810,791 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id38)">
+    <g>
+     <path id="path522" class="fil21" d="M1862 771c0,0 0,0 1,0 0,-1 1,0 2,0 1,0 2,0 3,1 1,0 2,1 3,2 0,1 1,1 2,2 1,1 2,2 2,3 0,0 1,1 1,2 0,0 1,0 1,0 0,0 0,0 0,-1 -1,0 -1,-1 -1,-2 0,-1 -1,-2 -1,-3 -1,-1 -2,-2 -3,-3 -1,-1 -2,-2 -3,-2 -2,0 -3,-1 -4,0 -1,0 -2,0 -2,0 -1,0 -1,0 -1,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1862,770 1877,770 1877,781 1862,781 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id39)">
+    <g>
+     <path id="path538" class="fil21" d="M1864 773c0,0 0,0 0,0 0,0 0,0 1,0 0,1 0,1 1,1 0,0 0,1 1,1 0,0 0,1 1,1 0,0 0,0 1,0 0,1 0,1 0,1 1,0 1,0 1,0 0,0 0,0 0,0 0,-1 0,-1 -1,-1 0,-1 0,-1 0,-1 -1,-1 -1,-1 -2,-1 0,-1 0,-1 -1,-1 0,0 -1,0 -1,0 -1,0 -1,0 -1,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1864,773 1870,773 1870,777 1864,777 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id40)">
+    <g>
+     <path id="path554" class="fil21" d="M1858 775c0,0 1,0 1,0 1,0 2,1 3,1 0,0 2,1 3,1 1,1 2,2 3,3 1,0 2,1 3,2 1,1 1,2 2,3 0,0 1,0 1,1 0,0 0,0 0,1 1,0 1,1 1,1 0,0 0,-1 0,-1 0,-1 0,-1 0,-2 -1,0 -1,0 -1,-1 0,-1 -1,-2 -2,-3 -1,-1 -2,-2 -3,-3 -1,-1 -2,-2 -4,-2 -1,-1 -2,-1 -3,-1 -1,0 -1,0 -2,0 0,0 0,0 -1,0 0,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1858,775 1875,775 1875,788 1858,788 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id41)">
+    <g>
+     <path id="path570" class="fil21" d="M1860 780c0,0 0,0 1,0 0,0 1,0 2,1 0,0 1,1 1,1 1,1 2,1 3,2 0,1 1,1 2,2 0,0 1,1 2,2 0,0 1,0 1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,-1 -1,-2 0,-1 0,-2 -1,-2 -1,-1 -1,-2 -2,-2 -1,-1 -2,-2 -3,-2 0,-1 -1,-1 -2,-1 -1,0 -2,0 -2,0 -1,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1860,780 1872,780 1872,789 1860,789 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id42)">
+    <g>
+     <path id="path586" class="fil21" d="M1860 789c0,0 0,0 1,0 0,0 0,0 0,0 0,0 0,1 1,1 0,0 1,1 1,1 1,1 1,1 2,1 0,1 1,1 2,2 0,0 1,1 1,1 0,0 1,1 1,1 0,0 1,0 1,0 0,0 0,0 -1,0 0,-1 0,-1 0,-2 0,0 -1,-1 -1,-1 -1,-1 -1,-2 -2,-2 -1,-1 -1,-1 -2,-1 -1,-1 -1,-1 -2,-1 0,0 -1,0 -1,0 0,0 0,0 -1,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1860,789 1870,789 1870,796 1860,796 "/>
+  </g>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.24748737" inkscape:cx="241.00353" inkscape:cy="388.96352" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1274" inkscape:window-height="728" inkscape:window-x="76" inkscape:window-y="0" inkscape:window-maximized="0"/>
+  <g>
+   <path id="path1916" class="fil3" d="M1381 846c0,0 -2,24 3,26 4,2 -1,6 -1,6 -1,0 -8,-1 -8,-1 -1,0 -4,-4 -4,-4 0,0 1,-14 -3,-24 -3,-9 5,-7 5,-7 0,1 8,3 8,3l0 1z"/>
+   <path id="path1920" class="fil3" d="M1303 850c0,0 0,25 -3,28 -3,4 4,6 4,6l9 -8c0,0 0,-7 2,-14 2,-7 5,-13 4,-15 0,-3 -4,-2 -5,-2 -2,0 -7,1 -8,1 -1,0 -3,4 -3,4z"/>
+   <path id="path1924" class="fil2" d="M1403 605c0,0 2,-6 7,-3 5,4 0,17 -8,18l1 -15z"/>
+   <path id="path1928" class="fil3" d="M1392 768c6,-81 13,-198 13,-198 0,0 -10,-19 -11,-20 -1,-1 -24,-7 -29,-9 -5,-2 -54,6 -56,7 -3,1 -34,12 -36,14 -3,3 -4,37 -4,37l1 8c-1,-1 -5,-3 -8,1 -3,5 0,18 10,18l15 142 105 0z"/>
+   <path id="path1932" class="fil27" d="M1297 873c-1,0 2,0 3,2 1,3 2,6 6,6 3,0 4,-4 6,-5 2,-1 3,0 3,2 -1,1 -1,2 -1,5 0,3 0,4 -1,5 -1,2 -2,1 -4,2 -3,1 -8,4 -12,6 -3,3 -13,3 -15,-3 -2,-6 3,-9 7,-10 4,0 8,-6 8,-10z"/>
+   <path id="path1936" class="fil27" d="M1386 869c0,-1 -2,-1 -3,1 -1,3 -2,6 -6,6 -4,0 -4,-3 -7,-5 -2,-1 -2,0 -2,2 0,1 1,2 1,5 0,3 0,4 1,6 1,1 2,0 4,1 3,1 8,4 12,7 3,2 13,2 15,-4 2,-6 -3,-9 -7,-9 -4,-1 -8,-7 -8,-10z"/>
+   <path id="path1940" class="fil27" d="M1289 787c0,0 11,15 51,15 0,0 38,0 51,-18l-5 69c0,0 -16,7 -26,2 0,0 -3,-32 -16,-38 0,0 -14,-10 -22,41 0,0 -11,3 -24,-1l-9 -70z"/>
+   <g>
+    <path id="path1944" class="fil28" d="M1260 547c2,-9 15,-34 51,-51 25,-12 57,-4 69,8 3,4 8,2 10,9l3 -5 0 6c0,0 2,1 6,5 0,0 1,-4 -3,-2 0,0 32,21 7,87 0,0 4,-54 -22,-47 0,0 -12,-29 -56,7 0,0 -13,0 -38,1 0,0 -11,14 -4,29 0,0 -5,-1 -9,-6 0,8 -1,17 -3,19 0,0 -20,-31 -11,-60l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path1948" class="fil28" d="M1325 647c0,0 -3,0 -8,5 -5,6 -14,1 -10,-6 0,0 -6,2 -5,11 1,11 27,24 39,1 0,0 4,14 22,12 14,-3 14,-18 9,-20 0,0 2,6 -3,7 -5,0 -4,-6 -13,-9 0,0 -10,3 -31,-1z"/>
+   <path id="path1952" class="fil11" d="M1391 787l0 0c0,0 10,-11 12,-31 0,0 5,3 12,2 0,0 -3,25 -18,36 -3,4 -7,8 -7,8l1 -15z"/>
+   <path id="path1956" class="fil9" d="M1420 749c0,0 -1,-3 -1,-4 3,-45 -18,-64 -21,-67l1 -10c-23,25 -54,31 -54,31 -45,-6 -69,-33 -69,-33l2 18c0,0 -18,25 -21,57 0,3 -2,5 -2,7 0,1 3,3 3,4 0,3 -2,5 -2,6 1,3 3,3 3,3 0,0 2,2 6,1 6,-1 6,-3 6,-3 0,0 0,-4 0,-9 -2,-25 10,-33 10,-33l8 70c0,0 8,16 54,15 42,-1 48,-18 48,-18l5 -68c8,14 9,28 7,40 0,1 8,4 14,1 0,0 2,-1 2,-2 0,-1 -1,-2 -1,-3 -1,-1 2,-2 2,-3z"/>
+   <path id="path1960" class="fil3" d="M1289 792c0,0 5,2 7,4 0,0 2,10 -2,15 0,0 -6,-2 -9,-8 0,0 2,-4 3,-5 1,-3 1,-6 1,-6z"/>
+   <path id="path1964" class="fil29" d="M1261 752c0,0 3,2 5,1 0,0 -3,4 -5,-1z"/>
+   <path id="path1968" class="fil3" d="M1271 759c0,0 0,20 18,33 0,0 0,8 -4,11 0,0 -19,-12 -25,-41 0,0 7,2 11,-3z"/>
+   <path id="path1972" class="fil29" d="M1414 748c0,0 -4,1 -6,0 0,0 3,2 6,0z"/>
+   <path id="path1976" class="fil30" d="M1292 709l1 56 20 11 -3 -51c0,0 -11,-10 -18,-16z"/>
+   <path id="path1980" class="fil6" d="M1312 775c0,0 1,7 -1,8 -2,0 -2,-8 -2,-9l3 1z"/>
+   <path id="path1984" class="fil6" d="M1307 773c0,0 1,7 -1,7 -2,0 -2,-7 -2,-9l3 2z"/>
+   <path id="path1988" class="fil6" d="M1302 770c0,0 1,6 -1,6 -2,1 -2,-6 -2,-7l3 1z"/>
+   <path id="path1992" class="fil6" d="M1298 768c0,0 1,5 -2,5 -3,0 -3,-7 -3,-7l5 2z"/>
+   <path id="path1996" class="fil6" d="M1276 663c1,0 2,1 7,7 5,7 17,22 44,24 26,3 60,2 72,-26 0,0 10,9 -4,25 0,0 9,10 -13,24 0,0 -9,17 -36,20 -26,2 -51,-19 -57,-31 -6,-12 -9,-19 -12,-20 -4,-1 -11,-12 -5,-17 0,0 -5,-9 3,-12l1 6z"/>
+   <path id="path2000" class="fil30" d="M1402 678c0,0 -2,15 -26,24 0,0 24,-4 26,-24z"/>
+   <path id="path2004" class="fil30" d="M1391 711c0,0 -13,10 -34,13 0,0 26,-2 34,-13z"/>
+   <g>
+    <path id="path2008" class="fil30" d="M1317 717c0,0 -6,-5 -10,-8 -3,-3 -14,-11 -15,-13 0,0 13,17 25,21l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path2012" class="fil30" d="M1368 731c0,0 -24,6 -39,-1 0,0 10,6 31,4 0,0 5,-2 8,-3z"/>
+   <path id="path2016" class="fil30" d="M1271 665c0,0 2,8 10,14 0,0 -7,-5 -9,-10 0,0 -1,-1 -1,-4z"/>
+   <g>
+    <path id="path2020" class="fil28" d="M1343 681c0,0 7,7 15,10 0,0 6,7 -6,17 0,0 3,-3 1,-8 0,0 -2,9 -11,13 0,0 -9,-5 -11,-14 0,0 -2,6 1,8 0,0 -6,-3 -5,-16 0,0 10,-1 16,-10l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path2024" class="fil14" d="M1304 618c1,-4 4,-5 6,-1 3,3 1,7 1,11 0,0 -1,1 -1,1 -4,5 -7,-7 -6,-11z"/>
+   <path id="path2028" class="fil14" d="M1369 618c1,-4 3,-5 6,-1 2,4 1,9 0,11 0,0 0,1 -1,1 -4,4 -7,-7 -5,-11z"/>
+   <path id="path2032" class="fil31" d="M1365 593c0,0 1,0 1,0 1,0 2,0 3,0 0,0 1,0 1,0 1,0 2,0 2,0 0,0 0,0 1,0 1,1 1,1 2,1 1,1 2,1 3,2 1,0 2,1 3,1 1,1 2,1 3,1 0,0 1,0 1,0 0,0 0,0 -1,-1 0,0 0,-1 -1,-2 -1,0 -2,-1 -3,-2 -1,-1 -2,-2 -3,-3 -1,0 -2,0 -2,0 -1,-1 -2,-1 -3,-1 -1,0 -2,1 -2,1 -1,0 -1,1 -2,1 -1,1 -1,1 -2,2 0,0 -1,0 -1,0z"/>
+   <path id="path2036" class="fil31" d="M1314 593c0,0 -1,0 -1,0 -1,-1 -1,-1 -2,-2 -1,0 -1,-1 -2,-1 0,0 -1,-1 -2,-1 -1,0 -2,0 -3,1 0,0 -1,0 -2,0 -1,1 -2,2 -3,3 -1,1 -2,2 -3,2 -1,1 -1,2 -1,2 -1,1 -1,1 -1,1 0,0 0,0 1,0 1,0 2,0 2,-1 1,0 3,-1 4,-1 1,-1 2,-1 3,-2 1,0 1,0 2,-1 0,0 1,0 1,0 0,0 1,0 1,0 1,0 2,0 2,0 1,0 2,0 3,0 0,0 1,0 1,0z"/>
+   <path id="path2040" class="fil16" d="M1347 646c0,0 0,0 -1,0 0,0 0,0 -1,0 -1,0 -1,0 -2,-1 -1,0 -1,0 -2,0 -1,0 -2,0 -2,0 -1,1 -2,1 -2,1 -1,0 -1,0 -2,1 0,0 0,0 0,0 0,0 0,0 0,0 1,0 1,1 2,1 0,0 1,0 2,0 0,0 1,0 2,0 1,0 2,0 2,0 1,0 2,0 2,-1 1,0 1,0 2,0 0,0 0,-1 0,-1z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id43)">
+    <g>
+     <path id="path2050" class="fil16" d="M1346 641c0,0 0,0 0,-1 0,0 0,-1 0,-1 0,-1 0,-2 0,-2 0,-1 0,-2 0,-3 0,-1 -1,-1 -1,-2 0,-1 0,-2 0,-2 -1,-1 -1,-1 -1,-2 0,0 0,0 0,0 0,0 0,0 -1,0 0,1 0,1 0,2 0,1 0,1 0,2 0,1 0,2 0,3 0,1 0,1 1,2 0,1 0,2 0,2 1,1 1,1 1,2 1,0 1,0 1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1343,628 1346,628 1346,641 1343,641 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id44)">
+    <g>
+     <path id="path2066" class="fil18" d="M1327 614c0,0 0,0 0,-1 0,-1 1,-2 1,-3 0,-1 0,-3 -1,-4 0,-2 -1,-3 -1,-5 -1,-1 -2,-3 -3,-4 -1,-1 -3,-2 -4,-2 -1,-1 -2,-1 -3,-1 -1,0 -1,0 -1,0 0,0 0,0 1,1 0,0 1,1 2,2 0,1 1,2 1,3 1,1 2,2 3,3 0,2 1,3 2,4 1,1 1,2 2,3 0,2 1,2 1,3 0,1 0,1 0,1z"/>
+     <path id="path2070" class="fil19" d="M1350 672c0,0 -2,-1 -5,-1 -6,0 -16,0 -19,0 -3,-1 -6,-3 -6,-3 0,0 1,4 7,4 6,1 23,0 23,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1315,594 1350,594 1350,673 1315,673 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id45)">
+    <g>
+     <path id="path2086" class="fil18" d="M1349 613c0,0 0,-1 0,-1 1,-1 1,-1 1,-1 0,-1 0,-1 1,-2 0,-1 1,-2 2,-3 1,-1 2,-2 3,-3 0,-2 2,-3 2,-3 1,-1 2,-2 3,-3 1,0 1,-1 1,-1 1,0 1,-1 1,-1 1,-1 1,-1 1,-1 0,0 0,0 -1,0 0,0 -1,0 -1,0 -1,0 -1,0 -2,0 -1,1 -3,1 -4,2 -2,1 -3,2 -4,4 -1,1 -2,3 -2,4 -1,2 -1,3 -1,5 0,1 0,2 0,3 0,0 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1349,594 1364,594 1364,613 1349,613 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id46)">
+    <g>
+     <path id="path2102" class="fil20" d="M1307 615c0,0 0,1 0,1 0,0 -1,0 -1,0 0,1 0,1 -1,1 0,1 0,1 0,2 0,0 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 1,1 1,1 1,1 0,0 0,0 0,-1 0,0 0,0 0,0 0,-1 1,-1 1,-2 0,0 0,0 0,-1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 0,-1 0,-1 0,-1 0,0 0,-1 0,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1305,615 1307,615 1307,623 1305,623 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id47)">
+    <g>
+     <path id="path2118" class="fil20" d="M1371 616c0,0 0,0 0,0 0,0 0,0 -1,0 0,1 0,1 0,1 -1,1 -1,1 -1,2 0,0 0,1 0,1 0,1 0,1 0,2 0,0 1,0 1,0 0,1 0,1 0,1 0,0 0,0 0,-1 0,0 0,0 1,0 0,-1 0,-1 0,-1 0,-1 0,-1 0,-2 1,0 1,0 1,-1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 -1,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1369,616 1372,616 1372,623 1369,623 "/>
+   <path id="path2128" class="fil32" d="M1325 848c-5,-1 -11,-1 -17,-1 -2,-1 -11,-1 -12,0 -2,-1 0,4 1,6 0,2 2,7 0,10 8,-1 18,-1 26,0 0,-5 -1,-12 2,-15z"/>
+   <path id="path2132" class="fil32" d="M1389 840c-3,2 -9,1 -12,2 -7,0 -13,2 -20,2 -1,4 2,10 1,15 4,1 9,-1 13,-1 5,0 11,-1 16,0l1 -5c0,-4 -2,-9 1,-13z"/>
+   <path id="path2136" class="fil33" d="M1361 846c0,0 -1,0 -1,0 0,4 0,7 1,11 0,0 0,0 0,0 1,-4 1,-8 0,-11z"/>
+   <path id="path2140" class="fil33" d="M1320 859c-1,-3 -1,-6 -1,-9 0,0 1,0 1,0 0,3 0,6 0,9 0,0 0,0 0,0z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id48)">
+    <g>
+     <path id="path2150" class="fil21" d="M1377 530c0,0 0,0 0,0 0,0 -1,0 -1,-1 0,0 -1,-1 -2,-2 -2,-2 -6,-5 -11,-7 -4,-2 -10,-4 -17,-5 -6,0 -13,0 -20,2 -7,1 -13,3 -20,5 -6,2 -11,3 -16,4 -5,1 -10,1 -13,1 -1,0 -2,0 -3,0 -1,0 -1,0 -1,0 0,0 0,0 1,0 1,0 2,1 3,1 3,0 8,0 13,0 5,-1 11,-2 17,-4 6,-2 13,-4 19,-5 7,-1 14,-2 20,-2 6,1 12,2 17,4 5,2 9,4 11,6 1,1 2,2 2,2 0,1 1,1 1,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1273,515 1377,515 1377,530 1273,530 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id49)">
+    <g>
+     <path id="path2166" class="fil21" d="M1370 515c0,0 -1,0 -2,-1 0,0 -1,-1 -3,-1 -1,-1 -2,-1 -4,-2 -2,-1 -4,-1 -6,-1 -2,-1 -3,-1 -5,-1 -2,0 -4,0 -5,0 -2,0 -3,0 -4,0 0,0 -1,0 -1,0 0,0 1,1 1,1 1,0 2,0 4,0 1,0 3,0 5,1 1,0 3,0 5,0 2,1 4,1 5,1 2,1 4,1 5,2 1,0 3,0 3,1 1,0 2,0 2,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1340,509 1370,509 1370,515 1340,515 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id50)">
+    <g>
+     <path id="path2182" class="fil21" d="M1367 511c0,0 0,-1 0,-1 -1,0 -1,0 -2,0 -1,-1 -3,-2 -5,-3 -3,0 -5,-1 -8,-1 -3,-1 -7,0 -10,0 -3,0 -6,1 -9,2 -3,1 -6,2 -8,2 -2,1 -4,2 -5,3 -1,0 -2,1 -2,1 0,0 1,-1 2,-1 1,0 3,-1 6,-1 2,-1 5,-2 7,-2 3,-1 6,-2 9,-2 3,0 7,-1 10,-1 2,1 5,1 7,1 3,1 5,1 6,2 1,0 1,0 1,0 1,0 1,1 1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1318,506 1367,506 1367,514 1318,514 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id51)">
+    <g>
+     <path id="path2198" class="fil21" d="M1364 502c0,0 0,0 -1,0 0,-1 -1,-1 -2,-2 -1,0 -2,-1 -3,-2 -1,0 -3,0 -4,-1 -2,0 -3,0 -5,0 -1,0 -2,0 -3,0 -2,0 -2,1 -3,1 -1,0 -1,0 -1,0 0,0 0,0 1,0 1,0 2,0 3,0 1,0 2,0 3,1 2,0 3,0 4,0 2,0 3,1 4,1 2,0 3,1 4,1 1,0 2,1 2,1 1,0 1,0 1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1342,497 1364,497 1364,502 1342,502 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id52)">
+    <g>
+     <path id="path2214" class="fil21" d="M1303 552c0,0 0,0 -1,1 -1,0 -1,0 -2,1 -1,0 -2,0 -2,1 -2,0 -4,1 -6,2 -3,0 -5,1 -7,1 -3,1 -5,1 -8,1 -2,0 -4,0 -6,0 -1,0 -2,0 -2,0 -1,-1 -2,-1 -2,-1 -1,0 -2,0 -2,0 0,0 1,0 2,1 0,0 1,0 1,0 1,1 2,1 3,1 2,0 4,1 6,1 3,0 5,0 8,-1 2,0 5,-1 7,-2 2,0 4,-1 6,-2 1,-1 2,-1 2,-2 1,0 1,-1 2,-1 1,-1 1,-1 1,-1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1265,552 1303,552 1303,561 1265,561 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id53)">
+    <g>
+     <path id="path2230" class="fil21" d="M1323 552c0,0 0,0 -2,-1 0,0 -1,0 -2,0 0,-1 -1,-1 -2,-1 -2,-1 -5,-2 -7,-3 -2,-2 -5,-3 -7,-4 -3,-2 -5,-3 -8,-4 -2,-1 -4,-2 -6,-3 -1,0 -2,-1 -3,-1 -1,0 -2,0 -2,0 -2,-1 -2,-1 -2,-1 0,0 0,0 1,1 1,0 2,0 2,1 1,0 2,0 3,1 2,1 4,2 7,3 2,1 4,3 7,4 2,1 5,3 7,4 3,1 5,2 7,2 1,1 2,1 3,1 1,0 2,0 2,0 2,1 2,1 2,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1282,534 1323,534 1323,552 1282,552 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id54)">
+    <g>
+     <path id="path2246" class="fil21" d="M1341 548c0,0 -1,0 -3,0 -2,0 -4,0 -6,-1 -3,-1 -6,-2 -9,-4 -3,-1 -6,-3 -9,-4 -3,-2 -7,-3 -10,-4 -3,-1 -6,-2 -9,-3 -3,0 -5,0 -7,0 -1,0 -2,0 -2,0 0,0 1,0 2,0 2,0 4,1 7,2 2,0 5,1 8,2 3,2 7,3 10,4 3,2 6,4 10,5 3,1 6,2 8,3 3,0 5,0 7,0 2,0 3,0 3,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1286,532 1341,532 1341,548 1286,548 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id55)">
+    <g>
+     <path id="path2262" class="fil21" d="M1348 546c0,0 0,0 -1,0 -1,0 -2,0 -3,-1 -1,0 -2,0 -3,-1 -2,0 -3,-1 -4,-1 -2,-1 -3,-2 -5,-2 -1,-1 -2,-1 -3,-2 -1,0 -2,0 -3,0 -1,0 -1,0 -1,0 0,0 0,0 1,0 1,0 1,1 2,1 1,1 3,2 4,2 1,1 2,2 4,2 1,1 3,1 4,2 2,0 3,0 4,0 1,0 2,0 3,0 1,0 1,0 1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1325,539 1348,539 1348,546 1325,546 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id56)">
+    <g>
+     <path id="path2278" class="fil21" d="M1374 533c0,0 -1,0 -1,-1 -1,-1 -3,-2 -4,-4 -2,-1 -5,-2 -7,-4 -3,-1 -5,-2 -8,-3 -3,0 -6,-1 -9,-1 -3,0 -5,0 -8,0 -2,0 -4,0 -5,0 -1,0 -2,0 -2,0 0,0 1,1 2,1 1,0 3,0 5,0 3,0 5,0 8,1 3,0 5,1 8,1 3,1 6,2 8,3 3,1 5,2 7,3 2,1 3,2 4,3 1,1 2,1 2,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1330,520 1374,520 1374,533 1330,533 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id57)">
+    <g>
+     <path id="path2294" class="fil21" d="M1391 526c0,0 0,0 0,1 0,0 1,0 1,0 0,0 1,0 1,0 0,1 1,1 1,1 1,0 1,0 1,0 1,1 1,1 2,1 0,0 0,0 0,0 1,0 1,0 1,0 0,0 0,0 0,0 0,0 -1,-1 -1,-1 0,0 0,0 -1,-1 0,0 -1,0 -1,0 -1,-1 -1,-1 -2,-1 0,0 -1,0 -1,0 0,0 -1,0 -1,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1391,526 1398,526 1398,529 1391,529 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id58)">
+    <g>
+     <path id="path2310" class="fil21" d="M1389 540c0,0 0,0 0,0 1,0 1,0 2,0 1,0 2,0 2,1 1,0 2,1 3,1 1,1 2,1 2,1 1,1 2,1 3,2 0,0 1,0 1,1 0,0 1,0 1,0 0,0 0,0 -1,-1 0,0 0,-1 -1,-1 0,-1 -1,-1 -2,-2 0,-1 -1,-1 -2,-2 -1,0 -2,0 -3,-1 -1,0 -2,0 -3,0 -1,0 -1,0 -2,0 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1389,539 1403,539 1403,546 1389,546 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id59)">
+    <g>
+     <path id="path2326" class="fil21" d="M1390 544c0,0 0,0 0,0 0,0 0,0 1,0 0,0 0,1 0,1 1,0 1,0 2,1 1,0 1,0 2,0 1,1 1,1 2,1 1,1 1,1 2,1 0,1 1,1 1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,-1 -1,-2 0,0 -1,0 -1,-1 -1,0 -1,-1 -2,-1 -1,-1 -2,-1 -2,-1 -1,0 -2,0 -2,0 -1,0 -1,0 -1,0 -1,0 -1,0 -1,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1390,544 1400,544 1400,549 1390,549 "/>
+   <path id="path2336" class="fil32" d="M1292 510c0,-3 13,-15 15,-19 7,-9 14,-16 22,-25 5,-5 16,-23 25,-16 3,3 4,7 9,7 6,2 12,-6 18,-5 10,1 13,25 14,32 2,10 3,19 5,29 0,5 1,11 3,16 -4,-3 -11,-2 -15,-3 -9,-2 -19,-4 -28,-6 -11,-2 -23,-4 -34,-6 -7,-1 -13,-1 -20,-1 -3,-1 -13,0 -14,-3z"/>
+   <path id="path2340" class="fil8" d="M1361 519c10,1 19,3 28,5 4,1 11,1 15,3 -2,-3 -2,-7 -3,-11 -8,-5 -20,-8 -27,-10 -8,-2 -16,-4 -24,-5 -9,-1 -18,-1 -26,-3 -8,-2 -16,-1 -23,0 -4,4 -8,9 -8,11 1,3 11,2 14,2 7,1 13,1 20,2 11,1 23,4 34,6z"/>
+   <path id="path2344" class="fil32" d="M1281 522c2,-1 3,-2 5,-2 4,0 9,-1 14,-1 8,1 17,0 26,1 9,1 18,2 27,4 7,2 15,4 22,6 4,1 8,2 12,4 3,1 6,1 9,2 1,0 2,1 3,2 2,0 4,1 6,2 2,1 3,1 3,3 1,2 2,4 2,6 3,0 6,0 9,1 3,1 6,2 8,-1 9,-13 -23,-22 -29,-24 -19,-6 -38,-10 -57,-13 -7,-2 -14,-3 -21,-4 -11,0 -22,1 -33,1 -5,0 -21,0 -23,7 -1,5 7,11 11,14 2,-3 4,-5 6,-8 0,0 0,0 0,0z"/>
+  </g>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="-752.89729" inkscape:cy="382.15398" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1274" inkscape:window-height="728" inkscape:window-x="76" inkscape:window-y="0" inkscape:window-maximized="0"/>
+  <g>
+   <path id="path1520" class="fil34" d="M1047 780c0,0 -16,31 -3,47 14,16 27,-3 28,-14 0,-12 -2,-16 -2,-16 0,0 -9,-10 -10,-10 -1,-1 -13,-7 -13,-7z"/>
+   <path id="path1524" class="fil35" d="M1065 754c0,0 -9,12 -11,18 -1,7 5,9 5,9 0,0 6,-12 9,-14 3,-3 0,-7 0,-7l-3 -6z"/>
+   <path id="path1528" class="fil2" d="M1182 602c0,0 2,-6 7,-3 5,4 -1,17 -8,17l1 -14z"/>
+   <path id="path1532" class="fil3" d="M1041 605c3,-4 6,-2 8,-1l-1 -8c0,0 1,-35 3,-37 3,-3 34,-13 36,-14 3,-1 48,0 53,2 6,2 32,2 33,3 1,0 11,17 11,17 0,0 -17,268 -19,287 0,0 -14,7 -23,0 0,0 -5,-27 -20,-40 0,0 -19,16 -21,43 0,0 -15,5 -26,0l-24 -234c-10,-1 -13,-13 -10,-18z"/>
+   <path id="path1536" class="fil11" d="M1170 784l1 -1c0,0 10,-11 12,-31 0,0 5,3 12,2 0,0 -3,25 -18,36 -3,4 -8,8 -8,8l1 -14z"/>
+   <path id="path1540" class="fil36" d="M1199 746c0,-1 -1,-3 -1,-4 3,-45 -18,-65 -21,-67l1 -10c-4,5 -8,10 -12,14 -28,22 -70,20 -98,-2 -10,-8 -13,-14 -13,-14l2 18c0,0 -18,24 -21,57 0,3 -2,4 -2,7 0,1 3,3 3,4 0,2 -2,5 -2,6 1,3 3,3 3,3 0,0 2,2 6,1 6,-1 6,-3 6,-3 0,0 0,-4 0,-10 -2,-24 10,-32 10,-32l8 70c0,0 9,16 54,15 42,-1 48,-18 48,-18l5 -68c8,14 9,28 7,40 0,1 8,4 14,1 1,0 2,-1 2,-2 0,-2 -1,-2 -1,-3 0,-1 2,-2 2,-3z"/>
+   <path id="path1544" class="fil3" d="M1068 789c0,0 5,2 7,4 0,0 2,9 -2,15 0,0 -6,-3 -9,-8 0,0 2,-4 3,-5 1,-3 1,-6 1,-6z"/>
+   <path id="path1548" class="fil37" d="M1040 749c0,0 3,2 5,1 0,0 -3,4 -5,-1z"/>
+   <path id="path1552" class="fil3" d="M1050 756c0,0 0,20 18,33 0,0 1,8 -4,11 0,0 -19,-12 -25,-41 0,0 7,1 11,-3z"/>
+   <path id="path1556" class="fil37" d="M1193 745c0,0 -4,1 -6,0 0,0 3,2 6,0z"/>
+   <path id="path1560" class="fil7" d="M1101 857c0,0 -5,2 -14,2 0,0 -8,0 -12,-2l0 -2c0,0 -4,1 -3,6 1,6 7,8 16,8 7,0 13,-3 14,-6 1,-4 -1,-6 -1,-6z"/>
+   <path id="path1564" class="fil7" d="M1165 853c0,0 1,0 1,2 1,3 0,7 0,7 0,0 -1,1 -3,2 -2,0 -6,2 -11,1 -3,0 -9,-1 -11,-6 0,-3 0,-5 1,-5 0,0 0,0 0,0 0,0 4,4 11,3 6,0 12,-3 12,-3l0 -1z"/>
+   <path id="path1568" class="fil38" d="M1075 870c0,0 2,0 4,2 1,2 1,6 5,6 4,-1 5,-4 7,-5 2,-1 2,0 2,1 0,2 -1,2 0,5 0,4 0,5 -1,6 -2,1 -2,1 -5,2 -2,1 -7,3 -11,6 -4,3 -13,2 -15,-3 -2,-6 2,-9 6,-10 5,-1 9,-6 8,-10z"/>
+   <path id="path1572" class="fil38" d="M1165 865c0,0 -2,0 -3,2 -2,3 -2,6 -6,6 -4,0 -5,-4 -7,-5 -2,-1 -2,0 -2,2 0,1 1,2 1,5 0,3 -1,4 1,5 1,2 2,1 4,2 3,1 8,4 11,6 4,3 14,3 15,-3 2,-6 -2,-9 -6,-10 -4,0 -9,-6 -8,-10z"/>
+   <path id="path1576" class="fil39" d="M1079 868l0 5c0,0 1,4 5,5 4,0 5,-4 6,-4l1 -1 1 -4c0,0 -6,1 -13,-1z"/>
+   <g>
+    <path id="path1580" class="fil39" d="M1161 864l0 4c0,0 -1,5 -4,5 -4,0 -6,-3 -7,-4 -1,-1 -1,-1 -1,-1l0 -3c0,0 6,1 12,-1l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path1584" class="fil8" d="M1068 786c0,0 13,14 53,14 0,0 36,0 49,-19l-2 40 -3 33c0,0 -4,4 -12,4 -4,0 -8,-1 -11,-4 0,0 -5,-28 -20,-40 0,0 -18,15 -21,43 0,0 -15,5 -26,0l-7 -71z"/>
+   <path id="path1588" class="fil34" d="M1178 663c0,0 -19,80 -117,120 2,2 5,5 7,6 0,0 90,-36 109,-107l1 -19z"/>
+   <path id="path1592" class="fil35" d="M1063 811c0,0 -1,11 -10,16 0,0 8,-8 10,-16z"/>
+   <path id="path1596" class="fil14" d="M1088 608c1,-4 4,-5 6,-1 3,4 1,7 1,11 0,0 -1,1 -1,1 -4,5 -7,-7 -6,-11z"/>
+   <path id="path1600" class="fil14" d="M1153 608c1,-4 3,-5 6,-1 2,4 1,9 0,11 0,0 0,1 -1,1 -4,5 -7,-7 -5,-11z"/>
+   <path id="path1604" class="fil31" d="M1149 584c0,0 1,-1 1,-1 1,0 2,0 3,0 0,0 1,0 1,0 1,0 2,0 2,0 0,0 0,0 1,1 1,0 1,0 2,0 1,1 2,2 3,2 1,1 2,1 3,1 1,1 2,1 3,1 0,1 1,1 1,1 0,0 0,-1 -1,-1 0,-1 0,-2 -1,-2 -1,-1 -2,-2 -3,-3 -1,-1 -2,-2 -3,-2 -1,-1 -2,-1 -2,-1 -1,0 -2,-1 -3,-1 -1,1 -2,1 -2,1 -1,1 -1,1 -2,1 -1,1 -1,2 -2,2 0,0 -1,1 -1,1z"/>
+   <path id="path1608" class="fil31" d="M1098 584c0,0 -1,-1 -1,-1 -1,0 -1,-1 -2,-2 -1,0 -1,0 -2,-1 0,0 -1,0 -2,-1 -1,0 -2,1 -3,1 0,0 -1,0 -2,1 -1,0 -2,1 -3,2 -1,1 -2,2 -3,3 -1,0 -1,1 -1,2 -1,0 -1,1 -1,1 0,0 0,0 1,-1 1,0 2,0 2,-1 1,0 3,0 4,-1 1,0 2,-1 3,-2 1,0 1,0 2,0 0,-1 1,-1 1,-1 0,0 1,0 1,0 1,0 2,0 2,0 1,0 2,0 3,0 0,0 1,1 1,1z"/>
+   <path id="path1612" class="fil16" d="M1131 637c0,0 0,0 -1,0 0,-1 0,-1 -1,-1 -1,0 -1,0 -2,0 -1,0 -1,0 -2,0 -1,0 -2,0 -2,0 -1,0 -2,0 -2,0 -1,0 -1,1 -2,1 0,0 0,0 0,0 0,0 0,0 0,0 1,1 1,1 2,1 0,0 1,0 2,1 0,0 1,0 2,0 1,-1 1,-1 2,-1 1,0 2,0 2,0 1,-1 1,-1 2,-1 0,0 0,0 0,0z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id60)">
+    <g>
+     <path id="path1622" class="fil16" d="M1130 631c0,0 0,0 0,0 0,-1 0,-1 0,-2 0,-1 0,-1 0,-2 0,-1 0,-2 0,-3 0,0 -1,-1 -1,-2 0,-1 0,-1 0,-2 -1,-1 -1,-1 -1,-1 0,-1 0,-1 0,-1 0,0 0,0 -1,1 0,0 0,0 0,1 0,1 0,2 0,2 0,1 0,2 0,3 0,1 0,2 1,2 0,1 0,2 0,2 1,1 1,1 1,2 1,0 1,0 1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1127,618 1130,618 1130,631 1127,631 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id61)">
+    <g>
+     <path id="path1638" class="fil18" d="M1111 604c0,0 0,0 0,-1 0,0 1,-2 1,-3 0,-1 0,-2 -1,-4 0,-1 -1,-3 -1,-5 -1,-1 -2,-2 -3,-4 -1,-1 -3,-2 -4,-2 -1,-1 -2,-1 -3,-1 -1,0 -1,0 -1,0 0,0 0,1 1,1 0,0 1,1 2,2 0,1 1,2 1,3 1,1 2,2 3,4 0,1 1,2 2,3 1,1 1,3 2,4 0,1 1,2 1,2 0,1 0,1 0,1z"/>
+     <path id="path1642" class="fil19" d="M1134 663c0,0 -2,-2 -5,-2 -6,0 -17,1 -19,0 -3,0 -6,-3 -6,-3 0,0 1,4 7,5 6,0 23,0 23,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1099,584 1134,584 1134,663 1099,663 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id62)">
+    <g>
+     <path id="path1658" class="fil18" d="M1133 603c0,0 0,0 0,-1 1,0 1,-1 1,-1 0,-1 0,-1 1,-2 0,-1 1,-2 2,-3 1,-1 2,-2 2,-3 1,-1 2,-2 3,-3 1,-1 2,-2 3,-3 1,0 1,-1 1,-1 1,0 1,-1 1,-1 1,0 1,-1 1,-1 0,0 0,0 -1,0 0,0 -1,0 -1,0 -1,0 -1,0 -2,1 -1,0 -3,1 -4,1 -2,1 -3,3 -4,4 -1,1 -2,3 -2,5 -1,1 -1,3 -1,4 0,1 0,2 0,3 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1133,584 1148,584 1148,603 1133,603 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id63)">
+    <g>
+     <path id="path1674" class="fil20" d="M1091 606c0,0 0,0 0,0 0,0 -1,0 -1,1 0,0 0,0 -1,1 0,0 0,0 0,1 0,0 0,1 0,1 0,1 0,1 0,2 0,0 0,0 0,1 0,0 1,0 1,0 0,0 0,0 0,0 0,-1 0,-1 0,-1 0,-1 1,-1 1,-1 0,-1 0,-1 0,-2 0,0 0,0 0,-1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1089,606 1091,606 1091,613 1089,613 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id64)">
+    <g>
+     <path id="path1690" class="fil20" d="M1155 606c0,0 0,0 0,0 0,0 0,0 -1,1 0,0 0,0 0,1 -1,0 -1,1 -1,1 0,1 0,1 0,1 0,1 0,1 0,2 0,0 1,0 1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,-1 1,-1 0,0 0,-1 0,-1 0,-1 0,-1 0,-1 1,-1 1,-1 1,-2 0,0 0,-1 0,-1 0,0 0,-1 -1,-1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1153,606 1156,606 1156,613 1153,613 "/>
+   <g>
+    <path id="path1700" class="fil28" d="M1110 640c0,0 -7,1 -13,7 -5,6 -17,4 -22,-2 0,0 2,19 24,20 22,2 27,-11 27,-11 0,0 4,11 23,10 18,-1 22,-20 22,-20 0,0 -5,8 -15,7 -10,-2 -9,-10 -18,-10 0,0 -10,2 -28,-1l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path1704" class="fil28" d="M1136 669c0,0 -9,1 -18,0l10 7 8 -7z"/>
+   <path id="path1708" class="fil40" d="M1055 595l-6 0c0,0 0,5 0,9l6 0c0,0 -1,-3 0,-8l0 -1z"/>
+   <path id="path1712" class="fil40" d="M1180 595l2 -1 0 8 -2 0c0,0 1,-3 0,-7z"/>
+   <g>
+    <path id="path1716" class="fil8" d="M1171 624c-2,3 -7,7 -14,8 -4,0 -10,0 -15,-2 -9,-3 -12,-19 -12,-19 0,-2 0,-6 1,-8 2,-4 10,-4 14,-5 4,0 8,-1 11,-1 4,0 8,0 12,0 3,1 6,5 7,12 0,6 -2,11 -4,15l0 0zm-64 -10c0,4 -3,14 -12,17 -12,4 -22,0 -22,0 -10,-2 -12,-25 -10,-29 2,-4 8,-4 20,-4 13,0 20,2 20,2 6,2 5,10 4,14l0 0zm73 -19c-4,-1 -8,0 -11,0 -8,-1 -18,-1 -26,1 -5,1 -9,1 -13,2l-9 0c-8,0 -17,0 -17,0 -23,-5 -35,-3 -38,-3 -3,0 -11,0 -11,0 -1,5 0,9 0,9 1,1 2,2 4,4 1,2 1,8 3,14 1,3 3,6 5,8 3,3 6,4 8,4 4,1 16,2 23,-1 7,-4 11,-11 13,-19 3,-7 8,-8 8,-8 0,0 6,0 9,8 3,7 7,13 7,13 5,9 17,8 23,7 7,0 11,-3 14,-8 4,-5 5,-19 5,-21 1,-2 3,-3 3,-3 1,-3 0,-7 0,-7l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path1720" class="fil28" d="M1050 618c3,0 3,-34 3,-40 1,-9 8,-22 28,-22 20,-1 27,8 46,9 19,0 24,-12 39,-12 15,1 18,18 16,46 0,0 12,-19 10,-46 0,0 5,-8 3,-30 0,0 -3,8 -12,11 0,0 18,-20 -1,-49 0,0 -1,21 -16,30 0,0 2,-13 -1,-24 0,0 -1,15 -13,21 0,-6 -2,-16 -5,-22 0,0 0,10 -7,17 -1,-5 -3,-10 -5,-15 0,0 0,8 -6,15 -6,0 -14,0 -25,2 -29,4 -63,24 -63,61 0,0 1,21 8,34 0,0 0,7 1,14z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id65)">
+    <g>
+     <path id="path1730" class="fil21" d="M1068 553c0,0 0,0 0,0 0,0 0,-1 0,-1 0,-1 1,-2 1,-3 1,-3 4,-7 8,-10 3,-4 8,-8 14,-11 6,-3 12,-5 19,-7 7,-1 14,-1 20,-2 7,-1 12,-1 17,-2 5,-1 10,-2 12,-4 2,0 3,-1 3,-1 1,0 2,0 2,0 0,0 -1,0 -1,0 -1,1 -2,1 -4,2 -2,1 -6,3 -11,4 -5,1 -11,2 -18,3 -6,1 -13,2 -19,3 -7,1 -14,3 -19,6 -6,3 -11,6 -14,10 -4,3 -7,6 -8,9 -1,1 -1,2 -2,3 0,0 0,1 0,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1068,512 1164,512 1164,553 1068,553 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id66)">
+    <g>
+     <path id="path1746" class="fil21" d="M1069 536c0,0 0,0 1,-1 0,0 1,-1 2,-2 1,-1 2,-3 4,-4 1,-1 3,-2 4,-3 2,-1 4,-2 5,-3 2,-1 3,-1 5,-2 1,0 2,0 3,-1 1,0 1,0 1,0 0,0 0,0 -1,1 0,0 -2,1 -3,1 -1,1 -2,2 -4,3 -2,1 -3,2 -5,2 -1,1 -3,2 -4,3 -2,1 -3,2 -4,3 -1,1 -2,2 -3,2 -1,1 -1,1 -1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1069,520 1094,520 1094,536 1069,536 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id67)">
+    <g>
+     <path id="path1762" class="fil21" d="M1070 531c0,0 0,0 0,0 0,-1 1,-1 1,-2 1,-1 2,-2 4,-4 2,-1 5,-3 7,-4 3,-1 6,-3 9,-3 3,-1 6,-2 9,-2 3,0 6,-1 9,-1 2,0 4,1 5,1 2,0 3,0 3,0 0,0 -1,0 -3,0 -1,0 -3,0 -5,1 -3,0 -5,0 -8,1 -3,0 -6,1 -9,2 -3,0 -6,1 -9,3 -3,1 -5,2 -7,3 -2,1 -4,3 -5,4 0,0 -1,0 -1,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1070,515 1117,515 1117,531 1070,531 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id68)">
+    <g>
+     <path id="path1778" class="fil21" d="M1069 522c0,0 1,0 1,0 0,-1 1,-2 1,-3 1,-1 2,-2 3,-3 1,0 2,-1 3,-2 2,-1 3,-2 4,-2 1,-1 3,-1 4,-1 1,0 2,0 2,0 1,0 1,0 1,0 0,0 0,0 -1,0 0,0 -1,0 -2,1 -1,0 -2,1 -3,1 -1,1 -3,2 -4,2 -1,1 -2,2 -3,3 -1,0 -2,1 -3,2 -1,1 -1,1 -2,2 0,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1069,511 1088,511 1088,522 1069,522 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id69)">
+    <g>
+     <path id="path1794" class="fil21" d="M1156 544c0,0 1,0 2,0 0,-1 1,-1 1,-1 1,-1 2,-1 3,-2 1,-1 3,-2 5,-3 1,-2 3,-4 5,-5 1,-2 3,-4 4,-6 2,-2 3,-4 4,-5 0,-1 1,-2 1,-3 0,0 1,-1 1,-1 0,-1 1,-2 1,-2 0,0 -1,1 -1,2 0,0 0,1 0,2 0,1 -1,1 -1,2 -1,2 -2,4 -3,6 -1,2 -3,4 -5,6 -1,2 -3,3 -5,5 -2,1 -4,2 -6,3 -1,1 -2,1 -2,1 -1,1 -2,1 -2,1 -1,0 -2,0 -2,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1156,516 1183,516 1183,544 1156,544 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id70)">
+    <g>
+     <path id="path1810" class="fil21" d="M1126 553c0,0 0,0 1,-1 1,0 1,-1 2,-1 1,-1 1,-2 2,-2 2,-2 3,-4 5,-6 2,-2 4,-4 5,-6 2,-2 4,-4 6,-6 2,-2 3,-4 5,-5 1,-1 2,-2 2,-2 1,-1 2,-1 2,-2 1,0 2,-1 2,-1 0,0 -1,1 -2,2 0,0 -1,1 -1,1 -1,1 -1,2 -2,2 -2,2 -3,4 -5,6 -2,2 -4,4 -5,6 -2,2 -4,4 -6,6 -2,2 -4,4 -5,5 -1,1 -2,1 -3,2 -1,0 -1,1 -2,1 -1,1 -1,1 -1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1126,521 1158,521 1158,553 1126,553 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id71)">
+    <g>
+     <path id="path1826" class="fil21" d="M1108 556c0,0 1,0 3,-1 1,0 3,-2 5,-3 2,-2 4,-4 7,-7 2,-2 4,-5 7,-8 2,-2 5,-5 7,-7 3,-2 6,-4 8,-5 2,-2 4,-3 6,-3 1,-1 2,-1 2,-1 0,0 -1,0 -2,1 -1,1 -3,2 -5,4 -3,1 -5,3 -7,5 -3,3 -6,5 -8,8 -2,2 -5,5 -7,8 -3,2 -5,4 -7,6 -3,1 -5,2 -6,3 -2,0 -3,0 -3,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1108,521 1153,521 1153,556 1108,556 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id72)">
+    <g>
+     <path id="path1842" class="fil21" d="M1101 557c0,0 0,0 0,0 1,-1 2,-1 3,-2 1,-1 2,-1 3,-2 1,-1 2,-2 3,-3 1,-1 2,-3 3,-4 1,-1 2,-1 3,-2 1,-1 2,-1 2,-2 1,0 1,0 1,0 0,0 0,0 0,0 -1,1 -2,2 -2,3 -1,0 -2,1 -3,3 -1,1 -2,2 -3,3 -1,1 -2,2 -3,3 -1,1 -3,1 -4,2 -1,0 -2,1 -2,1 -1,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1101,542 1119,542 1119,557 1101,557 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id73)">
+    <g>
+     <path id="path1858" class="fil21" d="M1072 555c0,0 0,-1 1,-2 0,-1 1,-3 2,-5 1,-2 3,-4 5,-6 2,-2 4,-4 6,-6 3,-1 5,-3 8,-4 2,-2 5,-3 7,-3 2,-1 4,-2 5,-2 1,0 2,0 2,0 0,0 -1,0 -2,0 -1,1 -3,2 -5,3 -2,1 -4,2 -6,3 -3,2 -5,3 -8,5 -2,2 -4,3 -6,5 -2,2 -4,4 -5,6 -2,1 -3,3 -3,4 -1,1 -1,2 -1,2z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1072,527 1108,527 1108,555 1072,555 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id74)">
+    <g>
+     <path id="path1874" class="fil21" d="M1049 542c0,0 0,1 -1,1 0,0 0,0 0,0 0,1 -1,1 -1,1 0,1 -1,1 -1,1 0,0 -1,1 -1,1 0,0 -1,1 -1,1 0,0 0,0 0,0 -1,1 -1,1 -1,1 0,0 0,0 0,-1 0,0 0,0 0,-1 1,0 1,0 1,-1 0,0 1,-1 1,-1 0,0 1,-1 1,-1 1,0 1,0 1,0 1,0 1,0 1,-1 1,0 1,0 1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1043,542 1049,542 1049,548 1043,548 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id75)">
+    <g>
+     <path id="path1890" class="fil21" d="M1055 554c0,0 0,0 0,0 -1,0 -1,1 -2,1 0,0 -1,1 -1,2 -1,0 -2,1 -2,2 -1,1 -1,1 -2,2 -1,1 -1,1 -2,2 0,1 0,1 -1,1 0,1 0,1 0,1 0,0 0,0 0,-1 0,0 0,-1 0,-1 1,-1 1,-2 2,-3 0,-1 1,-2 1,-2 1,-1 2,-2 3,-2 0,-1 1,-2 2,-2 1,0 1,0 2,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1045,554 1055,554 1055,565 1045,565 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id76)">
+    <g>
+     <path id="path1906" class="fil21" d="M1056 558c0,0 0,1 0,1 0,0 0,0 0,0 -1,0 -1,0 -1,1 0,0 -1,1 -1,1 -1,1 -1,1 -2,2 0,0 -1,1 -1,1 -1,1 -1,1 -2,2 0,0 0,0 0,1 -1,0 -1,0 -1,0 0,0 0,0 0,0 0,-1 0,-1 1,-2 0,0 0,-1 0,-2 1,0 1,-1 2,-2 0,0 1,-1 2,-1 0,-1 1,-1 1,-1 1,0 1,0 1,0 1,-1 1,-1 1,-1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="1048,558 1056,558 1056,567 1048,567 "/>
+  </g>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="-761.01823" inkscape:cy="382.15398" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1274" inkscape:window-height="728" inkscape:window-x="76" inkscape:window-y="0" inkscape:window-maximized="0"/>
+  <g>
+   <path id="path976" class="fil2" d="M915 854c0,0 2,-6 7,-3 5,3 -1,17 -8,17l1 -14z"/>
+   <path id="path980" class="fil3" d="M774 856c3,-4 6,-1 8,0l-1 -9c0,0 1,-34 3,-36 3,-3 34,-13 36,-14 3,-2 48,0 53,2 6,2 29,9 30,10 1,0 14,9 14,9 0,0 -17,269 -19,288 0,0 -14,7 -23,0 0,0 -5,-28 -20,-41 0,0 -19,17 -21,44 0,0 -15,5 -26,0l-24 -234c-10,-1 -13,-14 -10,-19z"/>
+   <g>
+    <path id="path984" class="fil41" d="M924 803c0,0 -1,32 -9,48l2 -33c0,0 4,-8 7,-15l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path988" class="fil8" d="M881 839c-1,0 -1,0 -1,0 0,0 0,0 1,0z"/>
+   <path id="path992" class="fil8" d="M872 839c0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0z"/>
+   <path id="path996" class="fil8" d="M874 839c1,0 3,0 5,0 -1,0 -3,0 -5,0z"/>
+   <g>
+    <path id="path1000" class="fil42" d="M839 896c0,0 -7,2 -12,8 -6,6 -18,3 -23,-3 0,0 3,19 25,20 22,2 26,-10 26,-10 0,0 4,11 23,9 18,-1 22,-19 22,-19 0,0 -5,7 -15,6 -10,-2 -9,-9 -18,-10 0,0 -9,3 -28,-1l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path1004" class="fil42" d="M866 925c0,0 -10,2 -19,0l10 7 9 -7z"/>
+   <path id="path1008" class="fil36" d="M910 927l-2 38c20,34 -5,70 -5,70l7 9c0,0 18,-15 20,-48 3,-44 -17,-66 -20,-69z"/>
+   <path id="path1012" class="fil36" d="M910 923c-24,26 -54,25 -54,25 -44,-7 -68,-33 -68,-33l2 17c0,0 -23,29 -21,65 2,37 23,52 23,52l5 -12c0,0 -11,-9 -12,-36 0,-24 8,-31 8,-31l7 59c0,0 26,15 58,13 32,-3 46,-19 46,-19l4 -58 2 -38 0 -4z"/>
+   <g>
+    <g style="clip-path:url(#id77)">
+     <image id="path1062" x="769" y="915" width="162" height="134" xlink:href="kastil_Images\kastil_ImgID3.png"/>
+    </g>
+   </g>
+   <polygon id="path1066" class="fil36" points="804,1042 798,1034 789,1057 798,1055 "/>
+   <path id="path1070" class="fil3" d="M804 1043c0,0 1,0 3,2 0,0 3,9 -2,15 0,0 -4,-2 -7,-5l6 -12z"/>
+   <polygon id="path1074" class="fil36" points="903,1035 903,1035 915,1050 906,1051 904,1049 902,1045 903,1038 "/>
+   <path id="path1078" class="fil11" d="M902 1050c0,0 2,0 2,-1l-2 -4 0 5z"/>
+   <path id="path1082" class="fil43" d="M789 929c0,0 25,31 53,38l14 -16 16 15c0,0 29,-23 39,-42l0 -7c0,0 -22,24 -55,31 0,0 -40,-5 -68,-33l1 14z"/>
+   <g>
+    <g style="clip-path:url(#id78)">
+     <image id="path1132" x="788" y="915" width="122.767" height="51.9551" xlink:href="kastil_Images\kastil_ImgID4.png"/>
+    </g>
+   </g>
+   <path id="path1136" class="fil44" d="M834 1108c0,0 -5,3 -14,3 0,0 -8,0 -12,-3l0 -1c0,0 -4,0 -3,6 1,6 7,7 16,8 7,0 13,-3 14,-7 1,-3 -1,-6 -1,-6z"/>
+   <path id="path1140" class="fil44" d="M898 1105c0,0 1,0 1,2 1,3 0,6 0,6 0,0 -1,2 -3,2 -2,1 -6,2 -11,2 -3,0 -9,-1 -11,-6 0,-4 0,-6 1,-5 0,0 0,0 0,0 0,0 4,3 11,3 6,-1 12,-3 12,-3l0 -1z"/>
+   <path id="path1144" class="fil25" d="M808 1122c0,0 2,-1 4,2 1,2 1,5 5,5 4,0 5,-3 7,-4 2,-1 2,-1 2,1 0,2 -1,2 0,5 0,3 0,5 -1,6 -2,1 -2,0 -5,2 -2,1 -7,3 -11,6 -4,3 -13,2 -15,-4 -2,-5 2,-8 7,-9 4,-1 8,-6 7,-10z"/>
+   <path id="path1148" class="fil25" d="M898 1117c0,0 -2,0 -3,2 -2,2 -2,6 -6,5 -4,0 -5,-3 -7,-4 -2,-1 -2,0 -2,1 0,2 1,2 1,5 0,3 -1,5 1,6 1,1 2,1 4,2 3,1 8,3 11,6 4,3 14,2 15,-3 2,-6 -2,-9 -6,-10 -4,-1 -9,-6 -8,-10z"/>
+   <path id="path1152" class="fil3" d="M812 1120l0 5c0,0 1,4 5,4 4,0 5,-3 6,-4l1 0 1 -4c0,0 -6,0 -13,-1z"/>
+   <g>
+    <path id="path1156" class="fil3" d="M894 1116l0 4c0,0 -1,4 -4,5 -4,0 -6,-3 -7,-4 -1,-1 -1,-1 -1,-1l0 -3c0,0 6,1 12,-1l0 0zm0 0l0 0 0 0z"/>
+   </g>
+   <path id="path1160" class="fil44" d="M903 1033c0,0 -10,18 -50,19 -39,0 -52,-14 -52,-14l-1 -9c0,0 22,13 54,13 32,-1 50,-19 50,-19l-1 10z"/>
+   <g>
+    <path id="path1164" class="fil28" d="M847 1049l0 -5c0,0 10,0 15,-1l0 6c0,0 -9,1 -15,0l0 0zm-2 2c9,1 19,0 19,0l0 -10c-6,1 -19,0 -19,0l0 10z"/>
+   </g>
+   <path id="path1168" class="fil25" d="M801 1038c0,0 13,14 53,13 0,0 36,0 49,-18l-3 45 -2 28c0,0 -4,3 -12,3 -4,0 -8,0 -11,-3 0,0 -5,-28 -20,-41 0,0 -14,13 -21,44 0,0 -15,5 -26,0l-7 -71z"/>
+   <path id="path1172" class="fil25" d="M831 1039c0,0 -1,8 1,13l-6 -2c0,0 -1,-5 -1,-12l6 1z"/>
+   <path id="path1176" class="fil25" d="M811 1034c0,0 0,8 1,12l-4 -1c0,0 -1,-5 0,-13l3 2z"/>
+   <path id="path1180" class="fil25" d="M875 1039c0,0 0,7 -1,12l6 -2c0,0 1,-5 0,-12l-5 2z"/>
+   <path id="path1184" class="fil25" d="M894 1030c0,0 1,8 0,12l4 -1c0,0 0,-6 0,-13l-4 2z"/>
+   <path id="path1188" class="fil14" d="M822 853c1,-4 3,-5 6,-1 2,4 0,8 0,11 0,0 0,1 -1,1 -3,5 -7,-7 -5,-11z"/>
+   <path id="path1192" class="fil14" d="M886 853c1,-4 4,-5 6,-1 2,4 1,9 0,11 0,0 0,1 0,1 -4,5 -7,-7 -6,-11z"/>
+   <path id="path1196" class="fil41" d="M883 829c0,0 0,0 1,-1 0,0 1,0 2,0 1,0 1,0 2,0 0,0 1,0 1,0 1,0 1,0 1,1 1,0 1,0 2,0 1,1 2,2 3,2 2,1 3,1 4,2 1,0 2,0 2,0 1,1 1,1 1,1 0,0 0,-1 0,-1 -1,-1 -1,-2 -2,-2 -1,-1 -1,-2 -3,-3 -1,-1 -2,-2 -3,-2 -1,-1 -1,-1 -2,-1 -1,0 -2,-1 -3,0 -1,0 -2,0 -2,0 -1,1 -1,1 -2,1 -1,1 -1,2 -2,2 0,0 0,1 0,1z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id79)">
+    <g>
+     <path id="path1206" class="fil18" d="M866 848c0,0 1,0 1,-1 0,0 0,-1 0,-1 0,-1 1,-1 1,-2 0,-1 1,-2 2,-3 1,-1 2,-2 3,-3 1,-1 2,-2 3,-3 1,-1 2,-2 2,-3 1,0 1,-1 2,-1 0,0 0,-1 1,-1 0,0 1,-1 1,-1 0,0 -1,0 -2,0 0,0 -1,0 -1,0 -1,0 -1,0 -2,1 -1,0 -3,1 -4,2 -1,0 -3,2 -4,3 -1,1 -1,3 -2,5 0,1 -1,3 -1,4 0,1 0,2 0,3 0,1 0,1 0,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="866,829 882,829 882,848 866,848 "/>
+   <path id="path1216" class="fil41" d="M831 829c0,0 0,-1 -1,-1 0,0 -1,-1 -2,-2 0,0 -1,0 -1,-1 -1,0 -2,0 -3,0 -1,-1 -2,0 -2,0 -1,0 -2,0 -2,1 -2,0 -3,1 -4,2 -1,1 -2,2 -3,3 0,0 -1,1 -1,2 0,0 -1,1 -1,1 0,0 1,0 1,-1 1,0 2,0 3,0 1,-1 2,-1 3,-2 1,0 2,-1 3,-2 1,0 2,0 2,0 1,-1 1,-1 1,-1 1,0 1,0 2,0 0,0 1,0 1,0 1,0 2,0 3,0 1,1 1,1 1,1z"/>
+   <path id="path1220" class="fil16" d="M864 882c0,0 0,0 0,0 -1,0 -1,-1 -2,-1 0,0 -1,0 -2,0 0,0 -1,0 -2,0 -1,0 -1,0 -2,0 -1,0 -1,0 -2,0 -1,0 -1,1 -1,1 -1,0 -1,0 -1,0 0,0 0,0 1,1 0,0 0,0 1,0 1,0 1,1 2,1 1,0 1,0 2,0 1,0 2,-1 3,-1 0,0 1,0 1,0 1,-1 2,-1 2,-1 0,0 0,0 0,0z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id80)">
+    <g>
+     <path id="path1230" class="fil16" d="M863 876c0,0 0,0 0,0 0,-1 0,-1 0,-2 0,0 0,-1 0,-2 0,-1 0,-2 0,-2 0,-1 0,-2 -1,-3 0,-1 0,-1 0,-2 0,-1 -1,-1 -1,-1 0,-1 0,-1 0,-1 0,0 0,0 0,1 0,0 -1,1 -1,1 0,1 0,2 0,2 0,1 0,2 0,3 0,1 1,2 1,2 0,1 1,2 1,3 0,0 0,1 1,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="860,863 863,863 863,876 860,876 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id81)">
+    <g>
+     <path id="path1246" class="fil18" d="M845 849c0,0 0,0 0,-1 0,0 0,-1 0,-3 0,-1 0,-2 0,-4 -1,-1 -1,-3 -2,-4 -1,-2 -2,-3 -3,-4 -1,-2 -2,-3 -3,-3 -2,-1 -3,-1 -4,-1 0,0 -1,0 -1,0 0,0 1,1 1,1 1,1 1,1 2,2 1,1 1,2 2,3 0,1 1,2 2,4 1,1 1,2 2,3 1,2 2,3 2,4 0,1 1,2 1,2 0,1 1,1 1,1z"/>
+     <path id="path1250" class="fil19" d="M867 908c0,0 -1,-2 -5,-2 -6,1 -16,1 -18,0 -4,0 -7,-3 -7,-3 0,0 2,4 8,5 6,0 22,0 22,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="832,829 867,829 867,908 832,908 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id82)">
+    <g>
+     <path id="path1266" class="fil20" d="M824 851c1,0 0,0 0,0 0,0 0,0 -1,1 0,0 0,0 0,1 -1,0 -1,1 -1,1 0,1 0,1 0,1 0,1 0,1 0,2 0,0 1,0 1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,-1 1,-1 0,0 0,-1 0,-1 0,-1 0,-1 1,-1 0,-1 0,-1 0,-2 0,0 0,-1 0,-1 0,0 0,-1 0,-1 0,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="822,851 825,851 825,858 822,858 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id83)">
+    <g>
+     <path id="path1282" class="fil20" d="M889 851c0,0 0,0 -1,0 0,0 0,0 0,1 -1,0 -1,0 -1,1 0,0 0,1 -1,1 0,1 0,1 0,2 0,0 0,0 1,1 0,0 0,1 0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 1,-1 1,-1 0,0 0,-1 0,-1 1,0 1,-1 1,-1 0,-1 0,-1 0,-2 0,0 0,0 0,-1 0,0 0,-1 0,-1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="886,851 889,851 889,858 886,858 "/>
+   <path id="path1292" class="fil42" d="M925 775c0,0 1,7 -3,14 0,0 2,-43 -35,-45 0,0 9,7 7,16 -1,3 -3,5 -6,6 0,-5 -2,-15 -13,-21 0,0 5,11 -3,20 0,0 0,0 -1,0 0,0 0,0 0,0 0,-5 -4,-17 -13,-20 0,0 5,8 0,14 -3,-2 -7,-3 -12,-3 -23,-4 -56,-1 -66,33 0,0 -13,4 -15,17 -2,13 8,42 19,52 0,0 -9,-45 17,-39 0,0 4,-6 17,-4 12,2 28,27 64,25 37,-3 50,-46 43,-65z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id84)">
+    <g>
+     <path id="path1302" class="fil21" d="M801 809c0,0 0,0 0,0 0,0 0,-1 1,-1 0,-1 0,-2 1,-3 1,-3 3,-7 7,-10 4,-4 8,-8 14,-11 6,-3 13,-5 19,-6 7,-2 14,-2 20,-3 7,0 13,-1 18,-2 5,-1 9,-2 12,-3 1,-1 2,-2 3,-2 0,0 1,0 1,0 0,0 0,0 -1,0 -1,1 -2,1 -3,2 -3,1 -7,3 -12,4 -5,2 -11,3 -17,3 -7,1 -14,2 -20,3 -7,1 -13,3 -19,6 -6,3 -10,6 -14,10 -4,3 -7,6 -8,9 -1,1 -1,2 -1,3 -1,1 -1,1 -1,1 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="801,768 897,768 897,809 801,809 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id85)">
+    <g>
+     <path id="path1318" class="fil21" d="M802 789c0,0 1,0 1,-1 1,-1 1,-2 2,-3 1,-1 3,-2 4,-3 1,-1 3,-2 4,-3 2,-1 4,-2 5,-3 2,-1 4,-2 5,-2 1,0 3,-1 3,-1 1,0 2,0 2,0 0,0 -1,0 -1,1 -1,0 -2,1 -4,1 -1,1 -2,2 -4,2 -1,1 -3,2 -4,3 -2,1 -4,2 -5,3 -2,1 -3,2 -4,3 -1,1 -2,2 -3,2 0,1 -1,1 -1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="802,773 828,773 828,789 802,789 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id86)">
+    <g>
+     <path id="path1334" class="fil21" d="M803 784c0,0 0,0 0,-1 1,0 1,0 1,-1 1,-1 3,-2 5,-4 2,-1 4,-3 7,-4 2,-2 5,-3 8,-4 4,0 7,-1 10,-1 3,-1 6,-1 8,-1 2,0 4,0 6,0 1,0 2,0 2,0 0,0 -1,1 -2,1 -2,0 -4,0 -6,1 -2,0 -5,0 -8,1 -3,0 -6,1 -9,1 -3,1 -6,2 -9,3 -2,1 -5,3 -7,4 -2,1 -3,2 -4,3 -1,1 -1,1 -2,2 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="803,768 850,768 850,784 803,784 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id87)">
+    <g>
+     <path id="path1350" class="fil21" d="M803 778c0,0 0,0 0,0 1,-1 1,-2 2,-3 0,0 1,-1 2,-2 1,-1 2,-2 4,-3 1,-1 2,-2 3,-2 2,-1 3,-1 4,-1 1,0 2,0 3,0 0,0 1,0 1,0 0,0 -1,0 -1,0 -1,0 -2,1 -3,1 -1,0 -2,1 -3,1 -1,1 -2,2 -3,2 -2,1 -3,2 -4,3 -1,1 -2,1 -3,2 -1,1 -1,1 -2,2 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="803,767 822,767 822,778 803,778 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id88)">
+    <g>
+     <path id="path1366" class="fil21" d="M890 801c0,0 0,-1 1,-1 1,0 1,-1 2,-1 0,-1 1,-1 2,-2 1,-1 3,-2 5,-3 2,-2 3,-4 5,-5 2,-2 3,-4 5,-6 1,-2 2,-4 3,-5 0,-1 1,-2 1,-2 1,-1 1,-2 1,-2 1,-1 1,-2 1,-2 0,0 0,1 0,2 -1,0 -1,1 -1,2 0,1 0,1 -1,2 -1,2 -2,4 -3,6 -1,2 -3,4 -4,6 -2,2 -4,4 -6,5 -2,1 -4,2 -6,3 0,1 -1,1 -2,1 -1,1 -1,1 -2,1 -1,0 -1,1 -1,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="890,772 916,772 916,801 890,801 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id89)">
+    <g>
+     <path id="path1382" class="fil21" d="M859 809c0,0 0,0 1,-1 1,0 2,-1 2,-1 1,-1 2,-2 2,-2 2,-2 4,-4 5,-5 2,-2 4,-5 6,-7 2,-2 3,-4 5,-6 2,-2 4,-4 5,-5 1,-1 2,-2 3,-2 0,-1 1,-1 2,-1 1,-1 1,-2 1,-2 0,0 0,1 -1,2 -1,0 -1,1 -2,1 0,1 -1,2 -2,2 -1,2 -3,4 -5,6 -1,2 -3,4 -5,6 -2,2 -4,5 -6,6 -2,2 -3,4 -5,5 -1,1 -2,2 -3,2 0,1 -1,1 -1,1 -2,1 -2,1 -2,1z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="859,777 891,777 891,809 859,809 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id90)">
+    <g>
+     <path id="path1398" class="fil21" d="M842 812c0,0 1,0 2,-1 1,0 3,-1 5,-3 2,-2 5,-4 7,-6 2,-3 4,-6 7,-8 2,-3 5,-6 8,-8 2,-2 5,-4 7,-5 3,-2 5,-3 6,-3 2,-1 2,-1 2,-1 0,0 0,0 -2,1 -1,1 -3,2 -5,4 -2,1 -5,3 -7,6 -3,2 -5,4 -8,7 -2,3 -4,5 -7,8 -2,2 -5,4 -7,6 -2,1 -5,2 -6,3 -1,0 -2,0 -2,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="842,777 886,777 886,812 842,812 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id91)">
+    <g>
+     <path id="path1414" class="fil21" d="M834 813c0,0 0,0 1,0 0,-1 1,-1 2,-2 1,0 2,-1 3,-2 1,-1 2,-2 3,-3 1,-1 2,-2 3,-3 1,-1 2,-2 3,-3 1,-1 2,-1 3,-2 0,0 1,0 1,0 0,0 -1,0 -1,0 -1,1 -1,2 -2,3 -1,0 -2,1 -2,3 -1,1 -2,2 -4,3 -1,1 -2,2 -3,3 -1,1 -2,1 -3,2 -2,0 -2,1 -3,1 -1,0 -1,0 -1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="834,798 853,798 853,813 834,813 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id92)">
+    <g>
+     <path id="path1430" class="fil21" d="M805 811c0,0 0,-1 1,-2 0,-1 1,-3 2,-5 1,-2 3,-4 5,-6 2,-2 4,-4 7,-6 2,-1 5,-3 7,-4 3,-1 5,-2 7,-3 2,-1 4,-1 5,-2 1,0 2,0 2,0 0,0 -1,0 -2,1 -1,0 -3,1 -5,2 -1,1 -4,2 -6,3 -3,2 -5,3 -7,5 -3,2 -5,3 -7,5 -2,2 -4,4 -5,6 -1,2 -2,3 -3,4 -1,1 -1,2 -1,2z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="805,783 841,783 841,811 805,811 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id93)">
+    <g>
+     <path id="path1446" class="fil21" d="M783 796c0,0 0,0 -1,0 0,0 -1,0 -2,1 -1,0 -1,1 -2,1 -1,1 -2,2 -3,3 -1,1 -1,2 -2,2 0,1 -1,2 -1,3 -1,1 -1,2 -1,2 0,1 0,1 0,1 0,0 -1,0 -1,-1 0,0 0,-1 0,-2 1,-1 1,-2 1,-4 1,-1 2,-2 2,-3 1,-1 2,-2 4,-2 1,-1 2,-1 3,-1 1,-1 2,0 2,0 1,0 1,0 1,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="770,796 783,796 783,809 770,809 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id94)">
+    <g>
+     <path id="path1462" class="fil21" d="M782 799c0,0 0,0 0,0 0,0 -1,0 -1,0 0,1 0,1 -1,1 0,1 0,1 -1,1 0,1 0,1 -1,1 0,0 0,1 0,1 -1,0 -1,0 -1,1 0,0 0,0 0,0 0,0 0,0 0,-1 0,0 0,0 0,-1 0,0 0,0 0,-1 1,0 1,-1 1,-1 1,0 1,-1 2,-1 0,0 0,0 1,0 0,0 0,0 1,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="777,799 782,799 782,804 777,804 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id95)">
+    <g>
+     <path id="path1478" class="fil21" d="M788 800c0,0 -1,0 -1,0 -1,0 -2,1 -3,1 0,1 -1,2 -2,2 -1,1 -2,2 -3,3 -1,1 -2,2 -3,3 0,1 -1,2 -1,3 -1,0 -1,1 -1,1 0,0 0,1 -1,1 0,1 0,1 0,1 0,0 0,0 0,-1 0,0 0,-1 0,-1 0,-1 0,-1 0,-2 1,-1 1,-2 2,-3 0,-1 1,-2 2,-4 1,-1 2,-2 4,-2 1,-1 2,-1 3,-2 1,0 1,0 1,0 1,0 1,0 2,0 0,0 1,0 1,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="773,800 788,800 788,815 773,815 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id96)">
+    <g>
+     <path id="path1494" class="fil21" d="M786 805c0,0 0,0 0,0 -1,0 -1,1 -2,1 0,1 -1,1 -1,2 -1,1 -2,1 -2,2 -1,1 -1,2 -2,2 -1,1 -1,2 -2,2 0,1 0,1 -1,2 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,-2 0,-2 1,-1 1,-2 2,-3 0,-1 1,-1 1,-2 1,-1 2,-2 2,-2 1,-1 2,-1 3,-2 1,0 1,0 2,0 0,0 0,1 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="776,805 786,805 786,816 776,816 "/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id97)">
+    <g>
+     <path id="path1510" class="fil21" d="M788 814c0,0 0,0 0,0 -1,0 -1,0 -1,1 0,0 0,0 0,0 -1,0 -1,1 -2,2 0,0 -1,1 -1,1 -1,1 -1,1 -2,2 0,0 -1,1 -1,1 0,1 -1,1 -1,1 0,1 0,1 0,1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 0,-1 1,-2 1,-2 0,-1 1,-2 1,-2 1,-1 2,-1 2,-2 1,0 2,0 2,-1 0,0 1,0 1,0 0,0 0,0 1,0 0,0 0,0 0,0z"/>
+    </g>
+   </g>
+   <polygon class="fil17" points="780,814 788,814 788,823 780,823 "/>
+  </g>
+  <g>
+   <polygon class="fil45" points="1623,850 1033,850 1033,1946 1623,1946 "/>
+   <polygon class="fil46" points="1623,1159 1033,1159 1033,1194 1623,1194 "/>
+   <g>
+    <g>
+     <polygon class="fil47" points="1033,1946 673,1946 673,1159 1033,1159 "/>
+     <polygon class="fil48" points="1033,1194 673,1194 673,1159 1033,1159 "/>
+     <polygon class="fil47" points="1086,1053 620,1053 620,1159 1086,1159 "/>
+     <polygon class="fil47" points="715,984 620,984 620,1159 715,1159 "/>
+     <polygon class="fil47" points="1086,984 991,984 991,1159 1086,1159 "/>
+     <polygon class="fil47" points="900,984 806,984 806,1159 900,1159 "/>
+     <path class="fil49" d="M853 1299c-26,0 -47,21 -47,47l0 127 94 0 0 -127c0,-26 -21,-47 -47,-47z"/>
+     <polygon class="fil46" points="913,1498 793,1498 793,1473 913,1473 "/>
+     <polygon class="fil45" points="913,1498 793,1498 793,1506 913,1506 "/>
+     <path class="fil49" d="M853 1597c-26,0 -47,21 -47,48l0 127 94 0 0 -127c0,-27 -21,-48 -47,-48z"/>
+     <polygon class="fil46" points="913,1797 793,1797 793,1772 913,1772 "/>
+     <polygon class="fil45" points="913,1797 793,1797 793,1805 913,1805 "/>
+    </g>
+    <g>
+     <polygon class="fil47" points="1983,1946 1623,1946 1623,1159 1983,1159 "/>
+     <polygon class="fil48" points="1983,1194 1623,1194 1623,1159 1983,1159 "/>
+     <polygon class="fil47" points="2036,1053 1570,1053 1570,1159 2036,1159 "/>
+     <polygon class="fil47" points="1665,984 1570,984 1570,1159 1665,1159 "/>
+     <polygon class="fil47" points="2036,984 1941,984 1941,1159 2036,1159 "/>
+     <polygon class="fil47" points="1850,984 1755,984 1755,1159 1850,1159 "/>
+     <path class="fil49" d="M1803 1299c-26,0 -48,21 -48,47l0 127 95 0 0 -127c0,-26 -21,-47 -47,-47z"/>
+     <polygon class="fil46" points="1863,1498 1743,1498 1743,1473 1863,1473 "/>
+     <polygon class="fil45" points="1863,1498 1743,1498 1743,1506 1863,1506 "/>
+     <path class="fil49" d="M1803 1597c-26,0 -48,21 -48,48l0 127 95 0 0 -127c0,-27 -21,-48 -47,-48z"/>
+     <polygon class="fil46" points="1863,1797 1743,1797 1743,1772 1863,1772 "/>
+     <polygon class="fil45" points="1863,1797 1743,1797 1743,1805 1863,1805 "/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil45" points="1118,775 1033,775 1033,850 1118,850 "/>
+    <polygon class="fil45" points="1287,775 1202,775 1202,850 1287,850 "/>
+    <polygon class="fil45" points="1454,775 1369,775 1369,850 1454,850 "/>
+    <polygon class="fil45" points="1623,775 1538,775 1538,850 1623,850 "/>
+   </g>
+   <g>
+    <g>
+     <path class="fil49" d="M1146 1302c-26,0 -48,21 -48,47l0 88 95 0 0 -88c0,-26 -21,-47 -47,-47z"/>
+     <polygon class="fil46" points="1206,1462 1086,1462 1086,1437 1206,1437 "/>
+     <polygon class="fil45" points="1206,1462 1086,1462 1086,1470 1206,1470 "/>
+    </g>
+    <g>
+     <path class="fil49" d="M1328 1302c-26,0 -48,21 -48,47l0 88 95 0 0 -88c0,-26 -21,-47 -47,-47z"/>
+     <polygon class="fil46" points="1388,1462 1268,1462 1268,1437 1388,1437 "/>
+     <polygon class="fil45" points="1388,1462 1268,1462 1268,1470 1388,1470 "/>
+    </g>
+    <g>
+     <path class="fil49" d="M1510 1302c-26,0 -48,21 -48,47l0 88 95 0 0 -88c0,-26 -21,-47 -47,-47z"/>
+     <polygon class="fil46" points="1570,1462 1450,1462 1450,1437 1570,1437 "/>
+     <polygon class="fil45" points="1570,1462 1450,1462 1450,1470 1570,1470 "/>
+    </g>
+   </g>
+   <g>
+    <path class="fil49" d="M1237 920c-26,0 -48,22 -48,48l0 87 95 0 0 -87c0,-26 -21,-48 -47,-48z"/>
+    <polygon class="fil46" points="1297,1080 1177,1080 1177,1055 1297,1055 "/>
+    <polygon class="fil45" points="1297,1080 1177,1080 1177,1088 1297,1088 "/>
+   </g>
+   <g>
+    <path class="fil49" d="M1419 920c-26,0 -48,22 -48,48l0 87 95 0 0 -87c0,-26 -21,-48 -47,-48z"/>
+    <polygon class="fil46" points="1479,1080 1359,1080 1359,1055 1479,1055 "/>
+    <polygon class="fil45" points="1479,1080 1359,1080 1359,1088 1479,1088 "/>
+   </g>
+   <path class="fil49" d="M1462 1946l-269 0 0 -271c0,-74 61,-134 135,-134 74,0 134,60 134,134l0 271z"/>
+  </g>
+  <g>
+   <path class="fil50" d="M1581 1953l0 -418c0,-5 5,-9 10,-9 5,0 10,4 10,9l0 418c0,6 -5,10 -10,10 -5,0 -10,-4 -10,-10z"/>
+   <path class="fil51" d="M1682 1637l-183 0c-5,0 -9,-5 -9,-10 0,-5 4,-10 9,-10l183 0c6,0 10,5 10,10 0,5 -4,10 -10,10z"/>
+   <path class="fil1" d="M1655 1872l-64 -54 -63 54c-3,2 -7,0 -7,-4l0 -231 140 0 0 231c0,4 -4,6 -6,4z"/>
+   <polygon class="fil52" points="1591,1801 1534,1849 1534,1650 1648,1650 1648,1849 "/>
+   <path class="fil1" d="M1538 1610l-8 0c-5,0 -9,4 -9,9l0 18 26 0 0 -18c0,-5 -4,-9 -9,-9z"/>
+   <path class="fil1" d="M1653 1610l-9 0c-5,0 -9,4 -9,9l0 18 26 0 0 -18c0,-5 -3,-9 -8,-9z"/>
+   <path class="fil1" d="M1563 1709l7 3c-1,4 -3,7 -6,9 -2,2 -6,3 -10,3 -5,0 -9,-2 -12,-5 -4,-4 -5,-8 -5,-14 0,-7 1,-12 5,-15 3,-4 7,-6 13,-6 4,0 8,2 11,5 2,1 3,4 4,7l-8 1c0,-2 -1,-3 -2,-4 -2,-1 -4,-2 -6,-2 -2,0 -5,1 -7,3 -1,2 -2,5 -2,10 0,5 1,8 2,10 2,2 4,3 7,3 2,0 4,0 6,-2 1,-1 2,-3 3,-6zm14 14l0 -38 28 0 0 7 -20 0 0 8 19 0 0 7 -19 0 0 10 21 0 0 6 -29 0zm36 -38l15 0c3,0 5,0 7,0 1,1 2,1 4,2 1,1 2,2 3,3 0,2 1,3 1,5 0,1 -1,3 -2,5 -1,1 -2,2 -4,3 3,1 4,2 6,3 1,2 2,4 2,6 0,2 -1,4 -2,5 0,2 -2,3 -3,4 -1,1 -3,2 -5,2 -1,0 -5,0 -9,0l-13 0 0 -38zm7 6l0 9 5 0c3,0 5,0 6,0 1,0 2,0 3,-1 1,-1 1,-2 1,-3 0,-1 0,-2 -1,-3 0,-1 -1,-1 -3,-1 0,-1 -3,-1 -6,-1l-5 0zm0 16l0 10 7 0c3,0 5,0 6,0 1,-1 2,-1 3,-2 0,-1 1,-2 1,-3 0,-1 -1,-2 -1,-3 -1,-1 -2,-1 -3,-2 -1,0 -3,0 -6,0l-7 0zm-58 62l0 -6 17 0 0 15c-2,1 -4,3 -7,4 -4,1 -7,2 -10,2 -4,0 -7,-1 -10,-3 -3,-1 -5,-4 -7,-7 -1,-3 -2,-6 -2,-10 0,-4 1,-8 2,-11 2,-3 4,-5 8,-7 2,-1 5,-2 9,-2 5,0 8,1 11,3 3,2 4,5 5,8l-8 2c0,-2 -1,-4 -3,-5 -1,-1 -3,-1 -5,-1 -4,0 -6,1 -8,3 -2,2 -3,5 -3,10 0,4 1,7 3,10 2,2 4,3 8,3 1,0 3,0 5,-1 1,0 3,-1 4,-2l0 -5 -9 0zm35 -24c3,0 6,1 8,4 3,3 4,8 4,15 0,7 -1,13 -4,16 -2,2 -5,4 -8,4 -4,0 -7,-2 -9,-5 -3,-2 -4,-7 -4,-15 0,-7 1,-12 4,-15 2,-3 5,-4 9,-4zm0 6c-1,0 -2,0 -3,1 -1,0 -1,1 -1,3 -1,1 -1,5 -1,9 0,5 0,8 1,10 0,1 1,2 1,3 1,0 2,1 3,1 0,0 1,-1 2,-1 1,-1 1,-2 1,-3 1,-2 1,-5 1,-10 0,-4 0,-7 0,-9 -1,-2 -1,-3 -2,-3 -1,-1 -2,-1 -2,-1zm36 32l-8 0 0 -28c-2,3 -6,5 -9,6l0 -7c2,0 4,-2 6,-3 2,-2 4,-4 5,-6l6 0 0 38z"/>
+  </g>
+  <g>
+   <g>
+    <path class="fil45" d="M829 1001c0,34 -28,62 -62,62 -34,0 -62,-28 -62,-62 0,-34 28,-62 62,-62 34,0 62,28 62,62z"/>
+    <g>
+     <path class="fil53" d="M769 1058c0,-1 1,-2 2,-2 1,0 1,0 1,1 0,1 0,2 -1,2 0,0 0,0 0,0 -1,0 -2,-1 -2,-1zm-13 0l0 0c-1,0 -1,-1 -1,-2 0,-1 1,-1 2,-1 1,0 1,1 1,2 0,1 -1,1 -2,1 0,0 0,0 0,0zm27 -3l0 0c0,-1 0,-2 1,-2 1,0 2,0 2,1 1,1 0,2 -1,2 0,0 0,1 0,1 -1,0 -2,-1 -2,-2zm-41 -1l0 0c-1,-1 -1,-2 -1,-3 1,0 2,-1 3,0 1,0 1,1 1,2 -1,1 -1,1 -2,1 0,0 -1,0 -1,0zm54 -4l0 0c-1,-1 0,-2 0,-3 1,0 2,0 3,1 0,1 0,2 -1,2 0,0 0,0 -1,0 0,0 -1,0 -1,0zm-66 -4l0 0c-1,-1 -1,-2 0,-3 0,0 1,0 2,0 1,1 1,2 0,3 0,0 0,0 -1,0 0,0 -1,0 -1,0zm77 -5l0 0c-1,-1 -1,-2 0,-3 1,0 2,0 3,0 0,1 0,2 0,3 0,0 0,0 0,0 -1,0 -1,0 -2,0 0,0 -1,0 -1,0zm-87 -6l0 0c-1,0 -1,-2 0,-2 1,-1 2,-1 3,0 0,1 0,2 -1,3 0,0 0,0 -1,0 0,0 -1,0 -1,-1zm96 -5l0 0c-1,-1 -1,-2 -1,-3 1,-1 2,-1 3,0 0,0 1,1 0,2 0,1 -1,1 -1,1 -1,0 -1,0 -1,0zm-103 -8l0 0c-1,0 0,-1 1,-2 1,0 2,0 2,1 0,1 0,2 -1,2 0,1 0,1 -1,1 0,0 -1,-1 -1,-2zm108 -5l0 0c0,-1 -1,-2 -1,-2 0,-1 1,-2 2,-2 1,0 2,1 2,2 -1,1 -1,2 -2,2 0,0 0,0 -1,0zm-112 -9l0 0c0,-1 1,-2 2,-2 1,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,0 -1,0 -2,-1 -2,-2zm113 -7l0 0c0,0 0,0 0,0 0,0 0,0 0,0 0,-1 1,-2 2,-2 1,0 1,1 1,2 0,0 0,0 0,0 0,0 0,0 0,0 0,1 0,2 -1,2 -1,0 -2,-1 -2,-2zm-111 -5l0 0c-1,0 -2,-1 -2,-2 0,-1 1,-2 2,-2 1,0 2,1 2,2 -1,1 -1,2 -2,2 0,0 0,0 0,0zm109 -9l0 0c0,-1 0,-2 1,-2 1,0 2,0 3,1 0,1 -1,2 -2,2 0,0 0,0 0,0 -1,0 -2,0 -2,-1zm-106 -5l0 0c-1,-1 -2,-2 -1,-2 0,-1 1,-2 2,-1 1,0 1,1 1,2 0,1 -1,1 -2,1 0,0 0,0 0,0zm101 -8l0 0c0,-1 0,-2 1,-2 1,-1 2,0 2,1 1,0 0,2 -1,2 0,0 0,0 0,0 -1,0 -2,0 -2,-1zm-95 -5l0 0c-1,0 -1,-2 0,-2 0,-1 1,-1 2,-1 1,1 1,2 1,3 -1,0 -1,0 -2,0 0,0 -1,0 -1,0zm87 -6l0 0c-1,-1 -1,-2 0,-2 1,-1 2,-1 2,0 0,0 0,0 0,0 1,0 1,2 0,2 0,1 0,1 -1,1 0,0 -1,0 -1,-1zm-78 -5l0 0c0,0 0,-1 1,-2 0,-1 2,-1 2,0 1,1 1,2 0,3 0,0 -1,0 -1,0 -1,0 -1,0 -2,-1zm67 -4l0 0c-1,0 -1,-1 0,-2 0,-1 1,-1 2,-1 1,1 1,2 1,3 -1,0 -1,1 -2,1 0,0 0,0 -1,-1zm-55 -4l0 0c0,0 0,-1 1,-2 1,0 2,0 2,1 1,1 0,2 0,2 -1,0 -1,0 -1,0 -1,0 -2,0 -2,-1zm43 -1l0 0c-1,-1 -2,-2 -1,-3 0,-1 1,-1 2,-1 1,1 1,2 1,3 0,0 -1,1 -2,1 0,0 0,0 0,0zm-29 -3l0 0c-1,-1 0,-2 1,-2 1,-1 2,0 2,1 0,1 0,2 -1,2 -1,0 -1,0 -1,0 -1,0 -1,-1 -1,-1zm15 0l0 0c-1,0 -1,-1 -1,-2 0,-1 1,-1 2,-1 0,0 0,0 0,0 1,0 1,0 1,1 0,1 -1,2 -2,2 0,0 0,0 0,0z"/>
+    </g>
+    <path class="fil54" d="M818 1001c0,28 -23,51 -51,51 -28,0 -51,-23 -51,-51 0,-28 23,-51 51,-51 28,0 51,23 51,51z"/>
+    <path class="fil55" d="M813 1001c0,25 -20,46 -46,46 -25,0 -46,-21 -46,-46 0,-26 21,-46 46,-46 26,0 46,20 46,46z"/>
+    <polygon class="fil54" points="771,1049 763,1049 763,953 771,953 "/>
+    <polygon class="fil54" points="719,1005 719,997 815,997 815,1005 "/>
+   </g>
+   <path class="fil45" d="M780 1001c0,7 -6,13 -13,13 -7,0 -13,-6 -13,-13 0,-7 6,-13 13,-13 7,0 13,6 13,13z"/>
+   <path class="fil53" d="M773 1001c0,3 -3,6 -6,6 -3,0 -6,-3 -6,-6 0,-3 3,-6 6,-6 3,0 6,3 6,6z"/>
+  </g>
+  <g>
+   <path class="fil56" d="M911 1007l54 -165c4,-1 6,-2 9,-4l0 0c2,4 3,5 5,9l-54 165c-4,1 -6,2 -9,4l0 0c-2,-4 -3,-5 -5,-9z"/>
+   <path class="fil48" d="M901 1040l11 -34c3,-2 5,-3 9,-5 2,4 3,5 4,9l-11 34c-3,2 -5,3 -9,5 -2,-4 -3,-5 -4,-9z"/>
+   <path class="fil51" d="M898 1047l12 -34c3,-2 5,-3 8,-5 2,4 3,6 5,9l-11 35c-2,3 -6,5 -9,4 -4,-1 -6,-5 -5,-9z"/>
+   <path class="fil1" d="M934 1024l-37 -12c-2,-3 -3,-4 -4,-7 3,-1 4,-2 7,-4l37 13c2,2 2,4 4,7 -3,1 -4,2 -7,3z"/>
+   <polygon class="fil57" points="921,1024 907,1019 909,1016 922,1020 "/>
+   <path class="fil52" d="M923 1015c-1,3 -5,5 -8,4 -4,-1 -6,-5 -5,-8 1,-4 5,-6 9,-5 4,1 6,5 4,9z"/>
+  </g>
+  <g>
+   <path class="fil45" d="M1677 1023l-15 -94c0,-3 1,-6 4,-8l59 -27c2,-1 4,-1 6,0l59 27c3,2 5,5 4,8l-14 94c0,1 -1,2 -2,3l-45 44c-3,3 -7,3 -10,0l-44 -44c-1,-1 -2,-2 -2,-3z"/>
+   <polygon class="fil54" points="1767,1018 1780,931 1728,907 1676,931 1690,1018 1728,1056 "/>
+   <polygon class="fil55" points="1693,1017 1680,934 1728,911 1776,934 1763,1017 1728,1051 "/>
+   <polygon class="fil54" points="1732,1052 1725,1052 1725,910 1732,910 "/>
+   <polygon class="fil54" points="1686,984 1686,977 1771,977 1771,984 "/>
+   <path class="fil45" d="M1745 977c0,9 -8,17 -17,17 -9,0 -16,-8 -16,-17 0,-9 7,-16 16,-16 9,0 17,7 17,16z"/>
+   <path class="fil53" d="M1736 977c0,4 -4,7 -8,7 -4,0 -7,-3 -7,-7 0,-4 3,-7 7,-7 4,0 8,3 8,7z"/>
+   <g>
+    <g>
+     <path class="fil53" d="M1669 930c0,0 0,0 -1,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,0 0,0 -1,0 0,0 0,-1 0,-1 0,-1 0,-1 0,-1 1,-1 1,-1 1,-1 0,0 0,0 0,0 0,0 0,0 0,0 1,0 2,0 2,1 0,0 1,0 1,1 0,0 -1,1 -1,1 0,1 -1,1 -1,1z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1682 922c-1,-1 0,-2 1,-3 1,0 2,0 2,1 1,1 0,2 -1,3 0,0 0,0 0,0 -1,0 -2,-1 -2,-1zm15 -7l0 0c-1,-1 0,-2 1,-3 1,0 2,0 2,1 1,1 0,2 -1,3 0,0 0,0 0,0 -1,0 -2,0 -2,-1zm15 -7l0 0c-1,-1 0,-2 1,-3 1,0 2,0 2,1 1,1 0,2 -1,3 0,0 0,0 -1,0 0,0 -1,0 -1,-1z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1728 902c0,0 0,0 0,0 0,0 0,0 0,0 -1,0 -1,0 -1,0 0,0 0,0 0,-1 0,0 -1,0 -1,-1 0,0 1,-1 1,-1 0,0 0,0 0,0 0,0 0,-1 1,-1 0,0 0,0 0,0 0,0 0,0 1,0 0,0 0,0 0,0 0,0 0,1 0,1 0,0 1,0 1,0 0,0 0,1 0,1 0,1 0,1 0,1 0,1 -1,1 -1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 -1,0 -1,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1772 923c-1,-1 -1,-2 -1,-3 1,-1 2,-1 3,-1 1,1 1,2 1,3 -1,0 -1,1 -2,1 0,0 -1,0 -1,0zm-15 -7l0 0c-1,-1 -1,-2 -1,-3 1,-1 2,-1 3,-1 1,1 1,2 1,3 -1,0 -1,1 -2,1 0,0 -1,0 -1,0zm-15 -7l0 0c-1,-1 -1,-2 -1,-3 1,-1 2,-1 3,-1 1,1 1,2 1,3 0,1 -1,1 -2,1 0,0 0,0 -1,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1788 930c-1,0 -1,0 -2,-1 0,0 0,0 0,0 0,-1 0,-1 0,-1 0,-1 0,-1 0,-1 1,-1 2,-1 2,-1 0,0 0,0 0,0 1,0 1,0 1,0 0,0 0,0 0,1 0,0 1,0 1,1 0,0 0,0 -1,1 0,0 0,0 0,0 0,0 0,0 0,0 0,1 0,1 -1,1 0,0 0,0 0,0 0,0 0,0 0,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1738 1056c-1,-1 -1,-2 0,-3 1,-1 2,-1 3,0 1,1 1,2 0,3 -1,0 -1,0 -1,0 -1,0 -1,0 -2,0zm11 -11l0 0c0,-1 0,-2 0,-3 1,-1 2,-1 3,0 1,1 1,2 0,3 0,0 -1,0 -1,0 -1,0 -1,0 -2,0zm12 -11l0 0c-1,-1 -1,-2 0,-3 1,-1 2,-1 2,0 1,1 1,2 0,3 0,0 0,0 -1,0 0,0 -1,0 -1,0zm12 -11l0 0c-1,0 -2,-1 -2,-2 1,-1 2,-2 3,-2 1,1 1,2 1,3 0,1 -1,1 -2,1 0,0 0,0 0,0zm2 -15l0 0c-1,-1 -1,-1 -1,-3 0,-1 1,-1 2,-1 1,0 2,1 2,2 -1,1 -1,2 -2,2 0,0 0,0 -1,0zm3 -16l0 0c-1,0 -2,-1 -2,-2 0,-1 1,-2 2,-2 1,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,0zm2 -16l0 0c-1,0 -1,-1 -1,-2 0,-1 1,-1 2,-1 1,0 2,1 1,2 0,1 -1,1 -1,1 -1,0 -1,0 -1,0zm3 -15l0 0c-1,0 -2,-1 -2,-2 0,-1 1,-2 2,-2 1,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,0zm2 -16l0 0c-1,0 -2,-1 -2,-2 1,-1 2,-2 3,-1 1,0 1,1 1,2 0,1 -1,1 -2,1 0,0 0,0 0,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1728 1067c0,0 -1,0 -1,0 0,0 0,0 0,-1 0,0 0,0 0,0 -1,0 -1,0 -1,0 0,0 0,0 0,-1 0,0 0,0 1,0 0,-1 0,-1 0,-1 1,-1 2,-1 3,0 0,0 0,0 0,1 0,0 0,0 0,0 0,1 0,1 0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,1 0,1 0,1 -1,0 -1,0 -2,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1716 1056c-1,-1 -1,-2 0,-3 0,-1 2,-1 2,0 1,1 1,2 0,3 0,0 -1,0 -1,0 0,0 -1,0 -1,0zm-12 -11l0 0c0,-1 0,-2 0,-3 1,-1 2,-1 3,0 1,1 1,2 0,3 0,0 -1,0 -1,0 -1,0 -1,0 -2,0zm-11 -11l0 0c-1,-1 -1,-2 0,-3 1,-1 2,-1 3,0 0,1 1,2 0,3 -1,0 -1,0 -2,0 0,0 -1,0 -1,0zm-12 -12l0 0c0,-1 1,-2 2,-3 1,0 2,1 2,2 0,1 0,2 -2,2 0,0 0,0 0,0 -1,0 -2,0 -2,-1zm-2 -16l0 0c0,-1 0,-2 2,-2 1,0 2,0 2,1 0,2 -1,2 -2,3 0,0 0,0 0,0 -1,0 -2,-1 -2,-2zm-2 -16l0 0c-1,-1 0,-2 1,-2 1,0 2,1 2,2 0,1 0,2 -1,2 0,0 -1,0 -1,0 -1,0 -1,-1 -1,-2zm-3 -15l0 0c0,-1 1,-2 2,-2 1,0 2,0 2,1 0,1 -1,2 -2,2 0,0 0,0 0,0 -1,0 -2,0 -2,-1zm-2 -16l0 0c0,-1 0,-2 1,-2 1,0 2,1 2,2 1,1 0,2 -1,2 0,0 0,0 0,0 -1,0 -2,-1 -2,-2zm-3 -15l0 0c0,-1 1,-2 2,-2 1,-1 2,0 2,1 0,1 -1,2 -2,2 0,0 0,0 0,0 -1,0 -2,0 -2,-1z"/>
+    </g>
+   </g>
+  </g>
+  <g>
+   <path class="fil56" d="M1875 1003l54 -166c3,-1 5,-2 8,-3l0 0c2,3 3,5 5,8l-54 165c-4,1 -5,2 -9,4l0 0c-2,-3 -3,-5 -4,-8z"/>
+   <path class="fil48" d="M1864 1035l11 -34c4,-2 6,-3 9,-5 2,4 3,6 4,9l-11 35c-3,1 -5,2 -9,4 -1,-3 -2,-5 -4,-9z"/>
+   <path class="fil51" d="M1861 1043l12 -35c3,-2 5,-3 9,-4 1,3 2,5 4,8l-11 35c-1,4 -5,6 -9,4 -4,-1 -6,-5 -5,-8z"/>
+   <path class="fil1" d="M1897 1019l-37 -12c-2,-3 -2,-4 -4,-7 3,-1 5,-2 7,-3l38 12c1,2 2,4 3,7 -3,1 -4,2 -7,3z"/>
+   <polygon class="fil57" points="1884,1019 1871,1014 1872,1011 1885,1015 "/>
+   <path class="fil52" d="M1887 1010c-2,4 -6,6 -9,4 -4,-1 -6,-5 -5,-8 2,-4 5,-6 9,-5 4,1 6,5 5,9z"/>
+  </g>
+  <g>
+   <polygon class="fil58" points="1400,517 1291,517 1291,497 1400,497 "/>
+   <polygon class="fil59" points="1400,499 1291,499 1291,497 1400,497 "/>
+   <path class="fil60" d="M1402 497l-113 0c-2,0 -4,-2 -4,-4 0,-3 2,-5 4,-5l113 0c2,0 4,2 4,5 0,2 -2,4 -4,4z"/>
+   <path class="fil60" d="M1402 526l-113 0c-2,0 -4,-2 -4,-5 0,-2 2,-4 4,-4l113 0c2,0 4,2 4,4 0,3 -2,5 -4,5z"/>
+   <g>
+    <path class="fil1" d="M1313 511c-2,2 -5,2 -7,0 -2,-2 -2,-6 0,-8 2,-2 5,-2 7,0 2,2 2,6 0,8z"/>
+    <path class="fil1" d="M1331 511c-2,2 -5,2 -7,0 -2,-2 -2,-6 0,-8 2,-2 5,-2 7,0 2,2 2,6 0,8z"/>
+    <path class="fil1" d="M1349 511c-2,2 -5,2 -7,0 -2,-2 -2,-6 0,-8 2,-2 5,-2 7,0 2,2 2,6 0,8z"/>
+    <path class="fil1" d="M1367 511c-2,2 -5,2 -7,0 -2,-2 -2,-6 0,-8 2,-2 5,-2 7,0 2,2 2,6 0,8z"/>
+    <path class="fil1" d="M1385 511c-2,2 -5,2 -7,0 -2,-2 -2,-6 0,-8 2,-2 5,-2 7,0 2,2 2,6 0,8z"/>
+   </g>
+   <polygon class="fil58" points="1387,464 1378,446 1363,460 1345,443 1327,460 1313,446 1304,464 1287,452 1289,488 1345,488 1402,488 1404,452 "/>
+   <path class="fil1" d="M1347 428c6,1 10,6 9,12 -1,6 -6,10 -12,9 -6,0 -10,-6 -9,-12 1,-6 6,-10 12,-9z"/>
+   <path class="fil1" d="M1378 439c4,1 6,4 6,7 -1,4 -4,6 -8,6 -3,-1 -5,-4 -5,-7 0,-4 4,-6 7,-6z"/>
+   <path class="fil1" d="M1405 446c3,0 5,3 5,7 0,3 -4,6 -7,5 -4,0 -6,-4 -6,-7 1,-3 4,-6 8,-5z"/>
+   <path class="fil1" d="M1313 439c-4,1 -6,4 -6,7 1,4 4,6 7,6 4,-1 6,-4 6,-7 -1,-4 -4,-6 -7,-6z"/>
+   <path class="fil1" d="M1286 446c-3,0 -6,3 -5,7 0,3 3,6 7,5 3,0 6,-4 5,-7 0,-3 -3,-6 -7,-5z"/>
+   <path class="fil60" d="M1358 473l-11 10c-1,1 -2,1 -4,0l-10 -10c-1,-1 -1,-3 0,-4l10 -10c2,-2 3,-2 4,0l11 10c1,1 1,3 0,4z"/>
+   <path class="fil60" d="M1321 473l-3 3c-1,1 -3,1 -4,0l-3 -3c-2,-1 -2,-3 0,-4l3 -4c1,-1 3,-1 4,0l3 4c1,1 1,3 0,4z"/>
+   <path class="fil60" d="M1369 473l4 3c1,1 3,1 4,0l3 -3c1,-1 1,-3 0,-4l-3 -4c-1,-1 -3,-1 -4,0l-4 4c-1,1 -1,3 0,4z"/>
+  </g>
+  <g>
+   <g>
+    <path class="fil45" d="M1540 751c0,34 -28,62 -62,62 -35,0 -63,-28 -63,-62 0,-35 28,-62 63,-62 34,0 62,27 62,62z"/>
+    <g>
+     <path class="fil53" d="M1479 807c0,-1 1,-2 2,-2 1,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,0 -1,0 -2,-1 -2,-2zm-12 1l0 0c-1,0 -2,-1 -2,-2 0,-1 1,-2 2,-1 1,0 2,1 2,2 0,0 -1,1 -2,1 0,0 0,0 0,0zm26 -3l0 0c0,-1 1,-2 2,-2 0,0 1,0 2,1 0,1 0,2 -1,2 -1,0 -1,0 -1,0 -1,0 -1,0 -2,-1zm-40 -1l0 0c-1,-1 -2,-2 -1,-3 0,-1 1,-1 2,-1 1,1 1,2 1,3 0,0 -1,1 -2,1 0,0 0,0 0,0zm53 -5l0 0c0,0 0,-2 1,-2 1,-1 2,0 2,1 1,0 1,1 0,2 0,0 -1,0 -1,0 -1,0 -1,0 -2,-1zm-66 -3l0 0c0,-1 -1,-2 0,-3 1,-1 2,-1 3,0 0,1 0,2 0,2 -1,1 -1,1 -2,1 0,0 0,0 -1,0zm78 -5l0 0c-1,-1 -1,-2 0,-3 0,-1 1,-1 2,0 1,1 1,2 0,3 0,0 0,0 0,0 0,0 -1,0 -1,0 -1,0 -1,0 -1,0zm-88 -6l0 0c0,-1 0,-2 1,-2 0,-1 2,-1 2,0 1,1 1,2 0,2 -1,1 -1,1 -1,1 -1,0 -1,0 -2,-1zm96 -5l0 0c-1,-1 -1,-2 0,-3 0,-1 1,-1 2,-1 1,1 1,2 1,3 -1,0 -1,1 -2,1 0,0 0,0 -1,0zm-103 -8l0 0c0,-1 0,-2 1,-2 1,0 2,0 3,1 0,1 -1,2 -1,2 -1,0 -1,0 -1,0 -1,0 -1,0 -2,-1zm109 -6l0 0c-1,0 -2,-1 -1,-2 0,-1 1,-1 2,-1 1,0 1,1 1,2 0,1 -1,2 -2,2 0,0 0,0 0,-1zm-112 -8l0 0c-1,-1 0,-2 1,-2 1,0 2,1 2,2 0,1 0,2 -1,2 -1,0 -1,0 -1,0 -1,0 -1,-1 -1,-2zm112 -7l0 0c0,0 0,0 0,0 0,0 0,-1 0,-1 0,-1 1,-1 2,-1 1,0 2,0 2,1 0,0 0,1 0,1 0,0 0,0 0,0 0,1 -1,1 -2,1 -1,0 -2,0 -2,-1zm-111 -6l0 0c-1,0 -2,-1 -1,-2 0,0 1,-1 2,-1 1,0 1,1 1,2 0,1 -1,1 -2,1 0,0 0,0 0,0zm110 -8l0 0c-1,-1 0,-2 1,-2 1,-1 2,0 2,1 0,1 0,2 -1,2 0,0 -1,0 -1,0 0,0 -1,0 -1,-1zm-107 -5l0 0c-1,-1 -1,-2 -1,-3 1,-1 2,-1 2,-1 1,1 2,2 1,3 0,0 0,1 -1,1 0,0 -1,0 -1,0zm101 -8l0 0c0,-1 0,-2 1,-2 1,-1 2,-1 3,0 0,1 0,2 -1,3 0,0 -1,0 -1,0 -1,0 -1,0 -2,-1zm-94 -5l0 0c-1,-1 -1,-2 -1,-3 1,0 2,-1 3,0 0,1 1,2 0,3 0,0 -1,0 -1,0 -1,0 -1,0 -1,0zm86 -6l0 0c0,-1 0,-2 0,-3 1,0 2,0 3,1 0,0 0,0 0,0 1,0 1,1 0,2 0,0 -1,1 -1,1 -1,0 -1,-1 -2,-1zm-77 -5l0 0c-1,0 -1,-2 0,-2 1,-1 2,-1 3,0 0,1 0,2 -1,3 0,0 0,0 -1,0 0,0 -1,0 -1,-1zm67 -4l0 0c-1,0 -1,-1 -1,-2 1,-1 2,-1 3,-1 0,1 1,2 0,3 0,0 -1,1 -1,1 -1,0 -1,-1 -1,-1zm-55 -4l0 0c-1,-1 0,-2 0,-2 1,-1 2,0 3,1 0,1 0,2 -1,2 0,0 0,0 -1,0 0,0 -1,0 -1,-1zm42 -2l0 0c-1,0 -1,-1 -1,-2 0,-1 1,-1 2,-1 1,0 2,1 2,2 -1,1 -1,2 -2,2 0,0 -1,-1 -1,-1zm-29 -3l0 0c0,-1 0,-2 1,-2 1,0 2,1 2,2 1,1 0,2 -1,2 0,0 0,0 0,0 -1,0 -2,-1 -2,-2zm16 1l0 0c-1,0 -2,-1 -2,-2 0,-1 1,-2 2,-2 0,0 0,0 0,0 1,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,0z"/>
+    </g>
+    <path class="fil54" d="M1529 751c0,28 -23,51 -51,51 -29,0 -52,-23 -52,-51 0,-29 23,-51 52,-51 28,0 51,22 51,51z"/>
+    <path class="fil55" d="M1524 751c0,25 -21,46 -46,46 -26,0 -47,-21 -47,-46 0,-26 21,-46 47,-46 25,0 46,20 46,46z"/>
+    <polygon class="fil54" points="1481,799 1474,799 1474,703 1481,703 "/>
+    <polygon class="fil54" points="1430,754 1430,747 1525,747 1525,754 "/>
+   </g>
+   <path class="fil45" d="M1491 751c0,7 -6,13 -13,13 -8,0 -14,-6 -14,-13 0,-8 6,-13 14,-13 7,0 13,5 13,13z"/>
+   <path class="fil53" d="M1483 751c0,3 -2,5 -5,5 -4,0 -6,-2 -6,-5 0,-3 2,-6 6,-6 3,0 5,3 5,6z"/>
+  </g>
+  <g>
+   <path class="fil56" d="M1622 757l54 -165c3,-1 5,-2 9,-4l0 0c1,3 2,5 4,8l-54 166c-3,1 -5,2 -9,3l0 0c-1,-3 -2,-5 -4,-8z"/>
+   <path class="fil48" d="M1611 790l11 -35c4,-1 6,-2 9,-4 2,3 3,5 5,9l-12 34c-3,2 -5,3 -8,5 -2,-4 -3,-6 -5,-9z"/>
+   <path class="fil51" d="M1609 797l11 -34c3,-2 5,-3 9,-5 2,4 3,6 4,9l-11 35c-1,3 -5,5 -9,4 -3,-1 -6,-5 -4,-9z"/>
+   <path class="fil1" d="M1644 774l-37 -12c-1,-3 -2,-5 -3,-7 2,-2 4,-2 7,-4l37 12c1,3 2,5 3,7 -2,2 -4,3 -7,4z"/>
+   <polygon class="fil57" points="1631,773 1618,769 1619,766 1632,770 "/>
+   <path class="fil52" d="M1634 765c-1,3 -5,5 -9,4 -4,-1 -6,-5 -4,-9 1,-3 5,-5 8,-4 4,1 6,5 5,9z"/>
+  </g>
+  <g>
+   <path class="fil45" d="M986 803l-14 -94c-1,-3 1,-6 4,-7l59 -28c2,-1 4,-1 6,0l59 28c3,1 4,4 4,7l-15 94c0,1 0,3 -2,4l-44 43c-3,3 -7,3 -10,0l-45 -43c-1,-1 -1,-3 -2,-4z"/>
+   <polygon class="fil54" points="1077,799 1090,712 1038,688 986,712 999,799 1038,836 "/>
+   <polygon class="fil55" points="1003,797 990,714 1038,692 1086,714 1073,797 1038,831 "/>
+   <polygon class="fil54" points="1041,832 1035,832 1035,690 1041,690 "/>
+   <polygon class="fil54" points="995,764 995,758 1081,758 1081,764 "/>
+   <path class="fil45" d="M1054 757c0,9 -7,17 -16,17 -9,0 -16,-8 -16,-17 0,-9 7,-16 16,-16 9,0 16,7 16,16z"/>
+   <path class="fil53" d="M1045 757c0,5 -3,8 -7,8 -4,0 -7,-3 -7,-8 0,-4 3,-7 7,-7 4,0 7,3 7,7z"/>
+   <g>
+    <g>
+     <path class="fil53" d="M978 710c0,0 0,0 0,0 0,0 0,0 0,0 0,0 -1,0 -1,0 0,0 0,0 0,0 0,-1 0,-1 0,-2 0,0 0,-1 0,-1 0,0 0,0 0,0 0,0 1,-1 1,-1 0,0 0,0 0,0 1,0 1,0 2,1 0,0 0,1 0,1 0,1 0,1 0,2 -1,0 -1,0 -2,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M992 702c-1,-1 0,-2 1,-2 0,-1 2,0 2,0 0,1 0,3 -1,3 0,0 0,0 -1,0 0,0 -1,0 -1,-1zm14 -7l0 0c0,-1 0,-2 1,-2 1,-1 2,0 3,1 0,0 0,2 -1,2 0,0 -1,0 -1,0 -1,0 -1,0 -2,-1zm15 -7l0 0c0,-1 0,-2 1,-2 1,-1 2,0 3,1 0,1 0,2 -1,2 0,0 -1,0 -1,0 -1,0 -1,0 -2,-1z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1038 682c0,0 0,0 0,0 -1,0 -1,0 -1,0 0,0 0,0 0,0 0,0 0,0 0,0 -1,-1 -1,-1 -1,-2 0,0 0,-1 1,-1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 1,0 0,0 0,0 0,0 0,0 1,0 1,0 0,0 0,0 0,0 0,0 0,0 0,0 1,0 1,1 1,1 0,1 0,1 -1,2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 -1,0 -1,0 0,0 0,0 0,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1082 703c-1,0 -2,-2 -1,-3 0,0 1,-1 2,0 1,0 2,1 1,2 0,1 -1,1 -1,1 -1,0 -1,0 -1,0zm-15 -7l0 0c-1,0 -1,-2 -1,-2 0,-1 2,-2 2,-1 1,0 2,1 1,2 0,1 -1,1 -1,1 -1,0 -1,0 -1,0zm-15 -7l0 0c-1,0 -1,-1 -1,-2 1,-1 2,-2 3,-1 1,0 1,1 1,2 -1,1 -1,1 -2,1 0,0 -1,0 -1,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1097 710c0,0 -1,0 -1,0 0,-1 0,-1 0,-1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 1,-1 1,-1 2,-1 0,0 0,0 0,0 0,0 0,1 0,1 1,0 1,0 1,0 0,0 0,1 0,1 0,0 0,1 0,1 0,0 0,0 0,1 0,0 0,0 -1,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 -1,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1048 836c-1,-1 -1,-2 0,-3 1,0 2,0 3,0 0,1 0,2 0,3 -1,0 -1,1 -2,1 0,0 -1,-1 -1,-1zm11 -11l0 0c-1,-1 -1,-2 0,-3 1,0 2,0 3,0 1,1 1,2 0,3 -1,0 -1,1 -2,1 0,0 -1,-1 -1,-1zm11 -11l0 0c0,-1 0,-2 0,-3 1,0 2,0 3,0 1,1 1,2 0,3 0,0 -1,1 -1,1 -1,0 -1,-1 -2,-1zm13 -11l0 0c-1,0 -2,-1 -2,-2 0,-1 1,-1 2,-1 1,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,-1zm2 -15l0 0c-1,0 -2,-1 -1,-2 0,-1 1,-2 2,-2 1,0 1,1 1,2 0,1 -1,2 -2,2 0,0 0,0 0,0zm3 -16l0 0c-2,0 -2,-1 -2,-2 0,-1 1,-2 2,-1 1,0 2,1 2,2 0,1 -1,1 -2,1 0,0 0,0 0,0zm2 -15l0 0c-1,0 -2,-1 -2,-2 1,-1 1,-2 2,-2 2,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,0zm2 -16l0 0c-1,0 -1,-1 -1,-2 0,-1 1,-2 2,-2 1,1 2,2 1,3 0,1 0,1 -1,1 0,0 -1,0 -1,0zm3 -15l0 0c-1,-1 -2,-2 -2,-3 0,-1 1,-1 2,-1 1,0 2,1 2,2 0,1 -1,2 -2,2 0,0 0,0 0,0z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1038 848c-1,0 -1,-1 -1,-1 -1,0 -1,0 -1,0 0,0 0,0 0,-1 0,0 0,0 0,0 0,0 0,0 0,0 0,-1 0,-1 0,-1 0,0 0,0 1,-1 0,0 2,0 2,0 0,1 1,1 1,1 0,0 0,0 0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,1 0,1 -1,1 0,0 0,0 0,0 0,0 -1,1 -1,1z"/>
+    </g>
+    <g>
+     <path class="fil53" d="M1025 836c0,-1 0,-2 0,-3 1,0 2,0 3,0 1,1 1,2 0,3 0,0 -1,1 -1,1 -1,0 -1,-1 -2,-1zm-11 -11l0 0c-1,-1 -1,-2 0,-3 1,0 2,0 3,0 0,1 0,2 0,3 -1,0 -1,1 -2,1 0,0 -1,-1 -1,-1zm-11 -11l0 0c-1,-1 -1,-2 0,-3 0,0 2,0 2,0 1,1 1,2 0,3 0,0 0,1 -1,1 0,0 -1,-1 -1,-1zm-12 -12l0 0c0,-1 1,-2 2,-2 1,0 2,0 2,1 0,1 -1,2 -2,2 0,1 0,1 0,1 -1,0 -2,-1 -2,-2zm-2 -16l0 0c-1,-1 0,-2 1,-2 1,0 2,1 2,2 0,1 0,2 -1,2 0,0 0,0 -1,0 0,0 -1,-1 -1,-2zm-3 -15l0 0c0,-1 1,-2 2,-2 1,-1 2,0 2,1 0,1 -1,2 -2,2 0,0 0,0 0,0 -1,0 -2,0 -2,-1zm-2 -16l0 0c0,-1 0,-2 1,-2 1,0 2,1 3,2 0,1 -1,2 -2,2 0,0 0,0 0,0 -1,0 -2,-1 -2,-2zm-3 -15l0 0c0,-1 1,-2 2,-3 1,0 2,1 2,2 0,1 0,2 -1,2 -1,0 -1,0 -1,0 -1,0 -1,0 -2,-1zm-2 -16l0 0c0,-1 1,-2 2,-2 1,0 2,0 2,1 0,1 -1,2 -2,3 0,0 0,0 0,0 -1,0 -2,-1 -2,-2z"/>
+    </g>
+   </g>
+  </g>
+  <g>
+   <path class="fil56" d="M1184 783l54 -165c4,-2 6,-3 9,-4l0 0c2,3 3,5 5,8l-54 165c-4,2 -6,3 -9,4l0 0c-2,-3 -3,-5 -5,-8z"/>
+   <path class="fil48" d="M1173 816l12 -35c3,-2 5,-3 9,-4 1,3 2,5 4,8l-11 35c-4,2 -6,3 -9,4 -2,-3 -3,-5 -5,-8z"/>
+   <path class="fil51" d="M1171 823l11 -35c4,-1 6,-2 9,-4 2,3 3,5 5,9l-12 34c-1,4 -5,6 -8,5 -4,-2 -6,-5 -5,-9z"/>
+   <path class="fil1" d="M1207 800l-38 -13c-1,-2 -2,-4 -3,-7 3,-1 4,-2 7,-3l37 12c2,3 2,4 4,7 -3,1 -5,2 -7,4z"/>
+   <polygon class="fil57" points="1194,799 1180,795 1181,791 1195,796 "/>
+   <path class="fil52" d="M1196 790c-1,4 -5,6 -9,5 -3,-1 -5,-5 -4,-9 1,-4 5,-6 9,-4 3,1 5,5 4,8z"/>
+  </g>
+  <g>
+   <path class="fil56" d="M1406 734l54 -165c3,-2 5,-3 8,-4l0 0c2,3 3,5 5,8l-54 165c-3,2 -5,3 -9,4l0 0c-2,-3 -3,-5 -4,-8z"/>
+   <path class="fil48" d="M1395 766l11 -34c4,-2 6,-3 9,-5 2,4 3,6 5,9l-12 35c-3,2 -5,3 -9,4 -1,-3 -2,-5 -4,-9z"/>
+   <path class="fil51" d="M1393 774l11 -35c3,-1 5,-2 9,-4 1,3 2,5 4,9l-11 34c-1,4 -5,6 -9,5 -4,-2 -6,-6 -4,-9z"/>
+   <path class="fil1" d="M1428 751l-37 -13c-1,-2 -2,-4 -4,-7 3,-1 5,-2 7,-3l38 12c1,3 2,4 3,7 -3,1 -4,2 -7,4z"/>
+   <polygon class="fil57" points="1415,750 1402,746 1403,742 1416,747 "/>
+   <path class="fil52" d="M1418 741c-2,4 -5,6 -9,5 -4,-2 -6,-5 -5,-9 2,-4 6,-6 9,-4 4,1 6,5 5,8z"/>
+  </g>
+ </g>
+</svg>
