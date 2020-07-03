@@ -182,6 +182,7 @@ body::before {
   background-color: transparent;
   width: 100%;
   height: 300px;
+  border-radius: 10%;
   padding-bottom:30px;
 }
 
@@ -204,16 +205,19 @@ body::before {
   position: absolute;
   width: 100%;
   height: 100%;
+  border-radius: 10%;
   backface-visibility: hidden;
 }
 
 .flip-card-front {
+  border-radius: 10%;
   width:100%;
   background-color: white;
   color: black;
 }
 
 .flip-card-back {
+  border-radius: 10%;
   width:100%;
   background-color: rgba(34, 46, 54, 0.937);
   color: white;
